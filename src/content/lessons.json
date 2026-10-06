@@ -1,0 +1,297 @@
+[
+  {
+    "id": "on-ont",
+    "skill": "homophones",
+    "title": "On ou ont ?",
+    "subtitle": "Un pronom ou un verbe",
+    "rule": "« On » est un pronom sujet : on parle. « Ont » est le verbe avoir au présent, à la troisième personne du pluriel.",
+    "examples": [
+      "On apprend chaque jour.",
+      "Ils ont appris la règle.",
+      "On a le temps."
+    ],
+    "tip": "Remplace « ont » par « avaient ». Si la phrase reste correcte, écris « ont ». « On » peut souvent être remplacé par « il »."
+  },
+  {
+    "id": "ces-ses",
+    "skill": "homophones",
+    "title": "Ces, ses, c’est, s’est",
+    "subtitle": "Montrer, posséder ou conjuguer",
+    "rule": "« Ces » montre plusieurs éléments. « Ses » indique une possession. « C’est » signifie « cela est ». « S’est » accompagne un verbe pronominal au passé composé.",
+    "examples": [
+      "Ces livres sont beaux.",
+      "Elle range ses livres.",
+      "C’est une bonne idée.",
+      "Il s’est levé tôt."
+    ],
+    "tip": "Au singulier, ces donne ce/cette et ses donne son/sa. C’est peut devenir cela est. Pour s’est, change le sujet : il s’est levé → je me suis levé."
+  },
+  {
+    "id": "a-et-son",
+    "skill": "homophones",
+    "title": "Les petits mots qui changent tout",
+    "subtitle": "A/à, et/est, son/sont, ou/où",
+    "rule": "« A », « est » et « sont » sont des verbes. « À » est une préposition. « Et » relie des éléments. « Son » est un déterminant possessif. « Ou » propose un choix ; « où » indique notamment un lieu.",
+    "examples": [
+      "Elle a rendez-vous à midi.",
+      "Il est calme et attentif.",
+      "Son livre et ses cahiers sont ici.",
+      "Où vas-tu ? Ici ou là ?"
+    ],
+    "tip": "Essaie « avait », « était », « étaient » pour reconnaître les verbes. Pour « ou », essaie « ou bien »."
+  },
+  {
+    "id": "ce-se",
+    "skill": "homophones",
+    "title": "Ce, se, leur et leurs",
+    "subtitle": "Reconnaître le rôle du mot",
+    "rule": "« Ce » peut accompagner un nom masculin ou être un pronom. « Se » accompagne un verbe pronominal. Devant un verbe, « leur » est un pronom invariable ; devant un nom, « leur » ou « leurs » s’accorde avec ce nom.",
+    "examples": [
+      "Ce matin, elle se prépare.",
+      "Je leur écris.",
+      "Ils prennent leurs cahiers.",
+      "Ils retrouvent leur professeur."
+    ],
+    "tip": "Repère le mot qui suit : un nom ou un verbe ? Le rôle du mot te donne la règle."
+  },
+  {
+    "id": "en-on",
+    "skill": "homophones",
+    "title": "En et on à l’oral et à l’écrit",
+    "subtitle": "Deux sons, deux emplois",
+    "rule": "« On » est un pronom sujet. « En » peut être une préposition ou un pronom qui remplace notamment un complément introduit par « de ». Leurs voyelles nasales sont distinctes en français standard, avec des variations selon les accents.",
+    "examples": [
+      "On part en train.",
+      "Tu veux du pain ? J’en veux.",
+      "On en parle demain."
+    ],
+    "tip": "On peut devenir il/elle. En peut reprendre un complément : j’en veux → je veux du pain. En est aussi une préposition : en train. Il n’a pas un remplacement universel."
+  },
+  {
+    "id": "determinants",
+    "skill": "grammaire",
+    "title": "Ce, cet, cette, ces",
+    "subtitle": "Le bon déterminant démonstratif",
+    "rule": "Devant un nom masculin singulier : « ce », ou « cet » si le mot qui suit commence par une voyelle ou un h muet. Au féminin singulier : « cette ». Au pluriel : « ces ». Le h aspiré empêche « cet ».",
+    "examples": [
+      "Ce livre.",
+      "Cet arbre.",
+      "Cet excellent livre.",
+      "Cette histoire.",
+      "Ces arbres.",
+      "Ce héros."
+    ],
+    "tip": "Identifie d’abord le genre et le nombre. Au masculin singulier, regarde le début du mot immédiatement suivant."
+  },
+  {
+    "id": "accords",
+    "skill": "grammaire",
+    "title": "Accorder les mots",
+    "subtitle": "Nom, adjectif et verbe",
+    "rule": "L’adjectif s’accorde généralement avec le nom en genre et en nombre. Le verbe s’accorde avec son sujet, même lorsqu’un complément les sépare.",
+    "examples": [
+      "Des maisons blanches.",
+      "Les enfants du quartier jouent.",
+      "Une réponse précise."
+    ],
+    "tip": "Trouve le nom auquel se rapporte l’adjectif et le sujet réel du verbe."
+  },
+  {
+    "id": "participes",
+    "skill": "grammaire",
+    "title": "Les participes passés",
+    "subtitle": "Être, avoir et complément direct",
+    "rule": "Avec « être », le participe passé s’accorde généralement avec le sujet. Avec « avoir », il s’accorde avec le complément d’objet direct si celui-ci est placé avant le verbe. Les verbes pronominaux demandent une analyse particulière.",
+    "examples": [
+      "Elles sont arrivées.",
+      "Elle a écrit des lettres.",
+      "Les lettres qu’elle a écrites.",
+      "Elles se sont parlé."
+    ],
+    "tip": "Avec « avoir », demande « a fait quoi ? ». Si la réponse est placée avant, vérifie l’accord."
+  },
+  {
+    "id": "phrases",
+    "skill": "grammaire",
+    "title": "Construire une phrase juste",
+    "subtitle": "Pronoms, négation et prépositions",
+    "rule": "Une phrase écrite doit articuler clairement ses éléments. En français standard écrit, la négation comporte habituellement « ne » et un second élément. « Dont » remplace un complément construit avec « de ».",
+    "examples": [
+      "Je ne comprends pas.",
+      "Le livre dont je parle.",
+      "Malgré la pluie, nous sortons.",
+      "Après qu’il est parti, nous avons rangé."
+    ],
+    "tip": "Retrouve la construction du verbe : parler de → dont ; penser à → auquel, à laquelle…"
+  },
+  {
+    "id": "present",
+    "skill": "conjugaison",
+    "title": "Les bases du présent",
+    "subtitle": "Des formes fréquentes à maîtriser",
+    "rule": "Le sujet détermine la terminaison du verbe. Certains verbes fréquents sont irréguliers : je fais, vous faites, ils font ; je prends, nous prenons, ils prennent.",
+    "examples": ["Tu finis.", "Vous dites.", "Nous faisons.", "Ils prennent."],
+    "tip": "Apprends les formes avec leur pronom sujet, puis réutilise-les dans une phrase."
+  },
+  {
+    "id": "temps",
+    "skill": "conjugaison",
+    "title": "Raconter au passé",
+    "subtitle": "Imparfait et passé composé",
+    "rule": "L’imparfait présente souvent une habitude ou un arrière-plan. Le passé composé présente généralement un événement accompli. Le plus-que-parfait situe un fait avant un autre fait passé.",
+    "examples": [
+      "Chaque été, nous lisions.",
+      "Hier, nous avons lu ce livre.",
+      "Quand elle est arrivée, j’avais terminé."
+    ],
+    "tip": "Demande-toi si tu décris une habitude, un événement achevé ou un fait antérieur."
+  },
+  {
+    "id": "modes",
+    "skill": "conjugaison",
+    "title": "Futur, conditionnel, subjonctif",
+    "subtitle": "Exprimer un projet, une condition ou une nécessité",
+    "rule": "Le futur exprime notamment un fait à venir. Le conditionnel peut exprimer une hypothèse ou une demande polie. Après « il faut que », on emploie le subjonctif. Dans une condition, « si » suivi de l’imparfait appelle souvent le conditionnel dans l’autre proposition.",
+    "examples": [
+      "Demain, je viendrai.",
+      "Si je pouvais, je viendrais.",
+      "Il faut que tu viennes.",
+      "Je souhaiterais un renseignement."
+    ],
+    "tip": "Pour distinguer « je serai » et « je serais », essaie « nous serons » ou « nous serions »."
+  },
+  {
+    "id": "accents",
+    "skill": "orthographe",
+    "title": "Les accents font sens",
+    "subtitle": "É, è, ê et à",
+    "rule": "Les accents font partie de l’orthographe. Ils peuvent distinguer des mots : ou/où, a/à, du/dû. Les majuscules conservent leurs accents. Certains mots admettent plusieurs graphies reconnues.",
+    "examples": [
+      "Une école.",
+      "Un élève.",
+      "Un événement ou un évènement.",
+      "À bientôt.",
+      "Il a dû partir."
+    ],
+    "tip": "Mémorise le mot entier dans une courte phrase et garde les accents lors des dictées."
+  },
+  {
+    "id": "mots",
+    "skill": "orthographe",
+    "title": "Les mots qui résistent",
+    "subtitle": "Doubles consonnes et familles de mots",
+    "rule": "L’orthographe d’un mot s’apprend avec son sens, sa famille et ses emplois. Une prononciation ne suffit pas toujours à retrouver ses lettres.",
+    "examples": [
+      "Développer un projet.",
+      "Une adresse précise.",
+      "Un accueil chaleureux.",
+      "La connexion est coupée."
+    ],
+    "tip": "Écris le mot, cache-le, retrouve-le de mémoire, puis vérifie. Recommence après un délai."
+  },
+  {
+    "id": "ponctuation",
+    "skill": "orthographe",
+    "title": "Ponctuer pour être compris",
+    "subtitle": "Donner du rythme sans couper le sens",
+    "rule": "Le point termine une phrase. La virgule sépare notamment les éléments d’une liste ou encadre certaines précisions. On ne sépare normalement pas le sujet de son verbe par une virgule.",
+    "examples": [
+      "Le soir, je lis.",
+      "Lina, ma voisine, écrit un roman.",
+      "Les enfants jouent dehors."
+    ],
+    "tip": "Lis ta phrase à voix haute, puis vérifie la structure : une pause orale n’impose pas toujours une virgule."
+  },
+  {
+    "id": "registre",
+    "skill": "vocabulaire",
+    "title": "Un vocabulaire plus précis",
+    "subtitle": "Du courant au soutenu",
+    "rule": "Le registre soutenu privilégie des mots précis et une syntaxe soignée. Il doit rester naturel et adapté au destinataire. Un mot rare n’améliore pas automatiquement une phrase.",
+    "examples": [
+      "Je vous remercie de votre aide.",
+      "Pourriez-vous préciser votre demande ?",
+      "Cette proposition mérite un examen attentif."
+    ],
+    "tip": "Remplace les mots vagues seulement lorsque le nouveau mot précise réellement ton idée."
+  },
+  {
+    "id": "nuances",
+    "skill": "vocabulaire",
+    "title": "Des mots proches, des sens différents",
+    "subtitle": "Choisir selon le contexte",
+    "rule": "Des mots proches ne sont pas toujours interchangeables. « Amener » s’emploie notamment pour une personne ; « apporter » pour une chose. « Compréhensible » signifie facile à comprendre ; « compréhensif » qualifie une personne indulgente.",
+    "examples": [
+      "Apporter un dossier.",
+      "Amener un ami.",
+      "Un texte compréhensible.",
+      "Une personne compréhensive."
+    ],
+    "tip": "Vérifie le sens dans le contexte, pas seulement la ressemblance des mots."
+  },
+  {
+    "id": "structure",
+    "skill": "redaction",
+    "title": "Une idée, un paragraphe",
+    "subtitle": "Organiser pour guider le lecteur",
+    "rule": "Un paragraphe développe une idée principale, puis l’explique ou l’illustre. Un texte argumentatif présente une position, des arguments et des exemples avant sa conclusion.",
+    "examples": [
+      "Idée : lire enrichit le vocabulaire.",
+      "Explication : on rencontre des mots en contexte.",
+      "Exemple : un roman révèle des nuances de sens."
+    ],
+    "tip": "Avant d’écrire, note ton idée principale et un exemple concret pour chaque paragraphe."
+  },
+  {
+    "id": "connecteurs",
+    "skill": "redaction",
+    "title": "Relier les idées",
+    "subtitle": "Cause, conséquence et opposition",
+    "rule": "Les connecteurs expriment une relation logique. « Parce que » introduit une cause. « Donc » marque une conséquence. « Cependant » indique une opposition ou une restriction. « En outre » ajoute un élément.",
+    "examples": [
+      "Il pleut ; nous restons donc ici.",
+      "Le trajet est long ; cependant, il est agréable.",
+      "Cette solution est simple. En outre, elle est peu coûteuse."
+    ],
+    "tip": "Choisis d’abord la relation entre les idées, puis le connecteur qui la traduit."
+  },
+  {
+    "id": "clarte",
+    "skill": "redaction",
+    "title": "Relire et reformuler",
+    "subtitle": "Une écriture claire et soignée",
+    "rule": "La relecture vérifie d’abord le sens et l’organisation, puis les phrases, les accords, les temps et l’orthographe. Pour un courriel formel, annonce clairement ta demande et termine avec une formule adaptée.",
+    "examples": [
+      "Je vous écris afin de solliciter un rendez-vous.",
+      "Pourriez-vous m’indiquer vos disponibilités ?",
+      "Je vous remercie de votre attention."
+    ],
+    "tip": "Fais plusieurs passages de relecture, chacun avec un objectif : sens, structure, puis langue."
+  },
+  {
+    "id": "lecture",
+    "skill": "comprehension",
+    "title": "Lire entre les lignes",
+    "subtitle": "Information, déduction et opinion",
+    "rule": "Une information explicite est donnée par le texte. Une inférence est une déduction fondée sur des indices. Une opinion exprime un jugement ; elle ne doit pas être confondue avec un fait vérifiable.",
+    "examples": [
+      "« La bibliothèque ouvre à neuf heures » : information.",
+      "« Selon moi, ce roman est passionnant » : opinion."
+    ],
+    "tip": "Appuie ta réponse sur un passage précis. Ne transforme pas une supposition en certitude."
+  },
+  {
+    "id": "nasals",
+    "skill": "orthographe",
+    "title": "On, an, en : écouter et écrire",
+    "subtitle": "Les sons nasaux et leurs graphies",
+    "rule": "On représente souvent le son /ɔ̃/ ; an et en représentent souvent /ɑ̃/. Les accents peuvent faire varier la prononciation. Une même voyelle nasale a plusieurs graphies : chant, champ, vent, temps. La famille du mot et sa graphie exacte restent nécessaires.",
+    "examples": [
+      "Conjugaison : con · ju · gai · son.",
+      "Comparaison, terminaison.",
+      "Chanter → chant.",
+      "Emporter, chambre ; exception : bonbon."
+    ],
+    "tip": "Écoute, cherche une famille, vérifie l’écriture, puis écris le mot de mémoire. Le son ne suffit pas toujours à choisir entre an et en."
+  }
+]

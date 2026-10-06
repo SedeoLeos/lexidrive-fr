@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "LexiDrive-fr",
+    "slug": "lexidrive-fr",
+    "version": "1.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "lexidrive",
+    "backgroundColor": "#FAF7F2",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "fr.lexidrive.app"
+    },
+    "android": {
+      "package": "fr.lexidrive.app",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#842E1B"
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "name": "LexiDrive-fr",
+      "shortName": "LexiDrive"
+    },
+    "plugins": [
+      "expo-font",
+      [
+        "expo-audio",
+        {
+          "microphonePermission": "Autoriser LexiDrive \u00e0 enregistrer votre lecture pour vous r\u00e9\u00e9couter.",
+          "recordAudioAndroid": true
+        }
+      ]
+    ],
+    "assetBundlePatterns": ["assets/**/*"],
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FAF7F2"
+    }
+  }
+}

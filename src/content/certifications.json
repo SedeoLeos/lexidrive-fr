@@ -1,0 +1,228 @@
+[
+  {
+    "level": "A1",
+    "title": "Examen blanc A1",
+    "certification": "DELF",
+    "objective": "Se présenter, comprendre des informations très simples et écrire un message bref.",
+    "reading": "Bonjour, je m’appelle Nora. J’habite à Pointe-Noire avec ma sœur. Je travaille dans une librairie. Le magasin ouvre à neuf heures et ferme à dix-huit heures. Le dimanche, je ne travaille pas. Je lis et je retrouve mes amis au parc. Cette semaine, je cherche un livre pour l’anniversaire de ma sœur. Elle aime les histoires de voyage.",
+    "listening": "Bonjour Nora, c’est Sami. Notre rendez-vous est demain à quinze heures, devant la bibliothèque. Apporte ton cahier. Si tu es en retard, appelle-moi. À demain !",
+    "writing": {
+      "id": "cert-A1",
+      "level": "A1",
+      "title": "Se présenter par écrit",
+      "duration": 15,
+      "instruction": "Tu rejoins un atelier. Écris un message pour te présenter : prénom ou pseudonyme, lieu de vie, activités, disponibilités et objectif en français. Utilise des phrases simples.",
+      "min": 60,
+      "plan": [
+        "Présente-toi.",
+        "Indique deux activités ou goûts.",
+        "Précise tes disponibilités.",
+        "Explique ton objectif."
+      ],
+      "model": "Bonjour, je m’appelle Nora et j’habite à Pointe-Noire. Je travaille dans une librairie. J’aime lire des histoires de voyage et retrouver mes amis. Je suis disponible le samedi matin pour participer à votre atelier. Je souhaite améliorer mon orthographe et apprendre à écrire des messages plus clairs. Je peux apporter un cahier et un court texte. Merci de votre accueil.",
+      "notes": "Observe l’organisation, les informations utiles et les connecteurs. Compare ton texte au modèle sans chercher à le recopier. Le modèle est une proposition originale, pas un corrigé officiel."
+    },
+    "oral": {
+      "id": "cert-A1",
+      "title": "Expression orale A1",
+      "level": "A1",
+      "duration": 1,
+      "focus": "Présente-toi pendant une minute : lieu de vie, goûts et activités. Tu peux utiliser un pseudonyme.",
+      "text": "Prépare trois idées, puis parle sans lire le modèle.\n\nBonjour, je m’appelle Nora et j’habite à Pointe-Noire. Je travaille dans une librairie. J’aime lire des histoires de voyage et retrouver mes amis. Je suis disponible le samedi matin pour participer à votre atelier. Je souhaite améliorer mon orthographe et apprendre à écrire des messages plus clairs. Je peux apporter un cahier et un court texte. Merci de votre accueil.",
+      "advice": [
+        "Formule une idée principale et un exemple.",
+        "Marque des pauses pour séparer les idées.",
+        "Réécoute-toi pour juger la clarté, sans chercher à imiter un accent."
+      ]
+    }
+  },
+  {
+    "level": "A2",
+    "title": "Examen blanc A2",
+    "certification": "DELF",
+    "objective": "Comprendre une annonce courante, décrire une situation et écrire un message organisé.",
+    "reading": "La bibliothèque du quartier propose un atelier de lecture le samedi 18 octobre, de dix heures à midi. Il est gratuit et ouvert aux adultes. Les participants doivent s’inscrire avant le jeudi 16 octobre, car la salle ne peut accueillir que douze personnes. Chaque personne apporte un court texte qu’elle aime. Pendant la séance, chacun lit un passage à voix haute, puis les autres partagent leurs impressions. On ne donne pas de note. Les personnes qui préfèrent écouter peuvent aussi participer. Pour s’inscrire, il suffit de donner son prénom à l’accueil de la bibliothèque.",
+    "listening": "Bonjour à tous. L’atelier de lecture prévu samedi matin aura finalement lieu samedi après-midi, de quatorze heures à seize heures. La salle habituelle est occupée. Nous nous retrouverons dans la petite salle du premier étage. Votre inscription reste valable : vous n’avez pas besoin de vous inscrire à nouveau. Pensez simplement à apporter votre texte. Si vous ne pouvez plus venir, prévenez l’accueil avant vendredi soir.",
+    "writing": {
+      "id": "cert-A2",
+      "level": "A2",
+      "title": "Inviter et expliquer",
+      "duration": 15,
+      "instruction": "Invite un ami à un atelier de lecture. Donne la date, le lieu et les horaires. Explique ce qui est prévu et pourquoi tu aimerais sa présence. Demande une réponse.",
+      "min": 80,
+      "plan": [
+        "Salue ton ami.",
+        "Donne les informations pratiques.",
+        "Explique le déroulement et ton envie.",
+        "Demande une confirmation."
+      ],
+      "model": "Bonjour Sami, la bibliothèque du quartier organise un atelier de lecture samedi prochain, de dix heures à midi. Il aura lieu dans la salle du premier étage et il est gratuit. Chaque participant apportera un court texte, puis nous lirons quelques passages à voix haute. Tu peux aussi venir simplement pour écouter. J’aimerais beaucoup y participer avec toi, car nous pourrions nous encourager et découvrir de nouvelles histoires. Es-tu disponible ? Il faut s’inscrire avant jeudi. Dis-moi si tu souhaites venir, et nous pourrons nous retrouver devant la bibliothèque.",
+      "notes": "Observe l’organisation, les informations utiles et les connecteurs. Compare ton texte au modèle sans chercher à le recopier. Le modèle est une proposition originale, pas un corrigé officiel."
+    },
+    "oral": {
+      "id": "cert-A2",
+      "title": "Expression orale A2",
+      "level": "A2",
+      "duration": 1,
+      "focus": "Invite un ami à l’atelier : indique les informations pratiques et explique pourquoi tu veux y aller.",
+      "text": "Prépare trois idées, puis parle sans lire le modèle.\n\nBonjour Sami, la bibliothèque du quartier organise un atelier de lecture samedi prochain, de dix heures à midi. Il aura lieu dans la salle du premier étage et il est gratuit. Chaque participant apportera un court texte, puis nous lirons quelques passages à voix haute. Tu peux aussi venir simplement pour écouter. J’aimerais beaucoup y participer avec toi, car nous pourrions nous encourager et découvrir de nouvelles histoires. Es-tu disponible ? Il faut s’inscrire avant jeudi. Dis-moi si tu souhaites venir, et nous pourrons nous retrouver devant la bibliothèque.",
+      "advice": [
+        "Formule une idée principale et un exemple.",
+        "Marque des pauses pour séparer les idées.",
+        "Réécoute-toi pour juger la clarté, sans chercher à imiter un accent."
+      ]
+    }
+  },
+  {
+    "level": "B1",
+    "title": "Examen blanc B1",
+    "certification": "DELF",
+    "objective": "Comprendre les points essentiels, raconter une expérience et justifier simplement un avis.",
+    "reading": "Depuis trois mois, Sami se rend au travail à vélo deux fois par semaine. Au début, il craignait d’arriver fatigué. Il a donc choisi un trajet plus long, mais moins fréquenté, et préparé ses affaires la veille. Aujourd’hui, il apprécie ce temps de déplacement : il observe le quartier et commence sa journée plus calmement.\n\nIl ne pense pourtant pas que tout le monde devrait faire le même choix. Certains collègues habitent loin et d’autres transportent du matériel lourd. Lorsqu’il pleut fortement, Sami prend lui-même le bus. À ses yeux, une bonne solution doit tenir compte de la situation de chacun. Il souhaiterait que son entreprise installe un abri pour les vélos et améliore les vestiaires. Il en a parlé à la direction, qui étudiera sa proposition lors de la prochaine réunion. Rien n’a encore été décidé.",
+    "listening": "Je voulais vous raconter mon premier atelier d’écriture. J’avais peur de lire mon texte devant les autres. L’animatrice nous a d’abord proposé d’écrire pendant cinq minutes, sans chercher à tout corriger. Ensuite, chacun pouvait partager un passage, mais ce n’était pas obligatoire. J’ai finalement lu deux phrases. Les remarques portaient sur ce qui était clair et sur une idée à développer. Personne ne s’est moqué de mes erreurs. Je ne suis pas devenu un excellent écrivain en une séance, bien sûr, mais j’ai eu envie de revenir. Pour la prochaine fois, je vais préparer un court récit et le relire avec un ami.",
+    "writing": {
+      "id": "cert-B1",
+      "level": "B1",
+      "title": "Raconter et donner son avis",
+      "duration": 30,
+      "instruction": "Raconte une expérience d’apprentissage difficile. Explique la difficulté, les actions entreprises, le résultat et ce que tu conseillerais à une personne dans la même situation.",
+      "min": 160,
+      "plan": [
+        "Situe l’expérience.",
+        "Décris la difficulté et tes réactions.",
+        "Raconte deux actions concrètes.",
+        "Explique le résultat.",
+        "Donne un conseil justifié."
+      ],
+      "model": "Quand j’ai commencé à travailler, je devais écrire des messages à des clients. Je comprenais bien leurs demandes, mais je craignais de faire des fautes. Je relisais mes phrases plusieurs fois sans toujours savoir quoi corriger. Cette difficulté me faisait perdre du temps et me décourageait.\n\nJ’ai décidé de noter mes erreurs les plus fréquentes dans un carnet. Pour chaque erreur, j’écrivais une phrase correcte et une courte explication. J’ai aussi demandé à une collègue de me montrer comment elle organisait ses courriels. Elle annonçait la demande, donnait les informations utiles et terminait par une question précise.\n\nAprès quelques semaines, j’écrivais plus facilement. Je faisais encore des erreurs, mais je savais mieux les repérer. Cette expérience m’a appris qu’il vaut mieux travailler quelques difficultés régulièrement que vouloir tout corriger en une soirée. Je conseillerais donc de commencer par un objectif simple, de garder des exemples et de demander une aide précise. Le progrès devient plus visible lorsque l’on compare ses propres textes au fil du temps.",
+      "notes": "Observe l’organisation, les informations utiles et les connecteurs. Compare ton texte au modèle sans chercher à le recopier. Le modèle est une proposition originale, pas un corrigé officiel."
+    },
+    "oral": {
+      "id": "cert-B1",
+      "title": "Expression orale B1",
+      "level": "B1",
+      "duration": 3,
+      "focus": "Raconte une difficulté d’apprentissage et explique ce qui t’a aidé, pendant deux à trois minutes.",
+      "text": "Prépare trois idées, puis parle sans lire le modèle.\n\nQuand j’ai commencé à travailler, je devais écrire des messages à des clients. Je comprenais bien leurs demandes, mais je craignais de faire des fautes. Je relisais mes phrases plusieurs fois sans toujours savoir quoi corriger. Cette difficulté me faisait perdre du temps et me décourageait.",
+      "advice": [
+        "Formule une idée principale et un exemple.",
+        "Marque des pauses pour séparer les idées.",
+        "Réécoute-toi pour juger la clarté, sans chercher à imiter un accent."
+      ]
+    }
+  },
+  {
+    "level": "B2",
+    "title": "Examen blanc B2",
+    "certification": "DELF",
+    "objective": "Comprendre une argumentation, défendre une position et expliquer des avantages et des limites.",
+    "reading": "Une association propose de prolonger l’ouverture de la bibliothèque deux soirs par semaine. Ses membres estiment que les horaires actuels excluent de fait une partie des habitants qui travaillent en journée. Ils soulignent que l’accès aux livres ne dépend pas seulement du nombre de documents disponibles, mais aussi de la possibilité de se rendre sur place.\n\nLa responsable de la bibliothèque reconnaît ce besoin. Elle rappelle toutefois qu’une ouverture prolongée nécessite du personnel, une organisation adaptée et un budget stable. Déplacer simplement les heures de travail pourrait réduire l’accueil à d’autres moments. Elle propose donc une expérimentation de trois mois, accompagnée d’un suivi de la fréquentation.\n\nPour l’association, le nombre de visiteurs ne devrait pas être l’unique indicateur. Certains usages, comme la préparation d’un examen ou l’aide à une démarche administrative, demandent du temps sans produire une forte rotation du public. Une enquête qualitative compléterait utilement les chiffres.\n\nLes deux parties s’accordent sur l’intérêt d’essayer, mais elles ne définissent pas encore la réussite de la même façon. Le débat porte ainsi moins sur le principe d’un meilleur accès que sur les moyens de le garantir et les critères qui permettront de juger l’essai.",
+    "listening": "Notre association soutient le projet d’une bibliothèque ouverte plus tard. Cependant, nous ne souhaitons pas que les nouveaux horaires remplacent simplement les créneaux du matin. Les personnes âgées et les parents qui viennent après avoir accompagné leurs enfants à l’école ont également besoin du service. Nous proposons donc une expérimentation limitée, avec un financement identifié. Il faudrait recueillir les avis de plusieurs groupes d’usagers, y compris de ceux qui fréquentent peu la bibliothèque. Un bilan uniquement fondé sur le nombre d’entrées risquerait de négliger certains usages. Si l’essai montre que les soirées répondent à un besoin réel, nous pourrons discuter des moyens de les maintenir.",
+    "writing": {
+      "id": "cert-B2",
+      "level": "B2",
+      "title": "Défendre une proposition",
+      "duration": 30,
+      "instruction": "Écris à la responsable d’une bibliothèque pour soutenir une ouverture en soirée. Présente deux arguments, réponds à une objection budgétaire et propose une expérimentation évaluée.",
+      "min": 250,
+      "plan": [
+        "Présente ta demande et le destinataire.",
+        "Développe deux arguments avec exemples.",
+        "Reconnais une objection.",
+        "Propose des moyens et une évaluation.",
+        "Conclus avec une demande concrète."
+      ],
+      "model": "Madame,\nJe souhaite vous proposer une expérimentation d’ouverture en soirée de notre bibliothèque. Plusieurs habitants qui travaillent en journée ne peuvent pas profiter des horaires actuels. Une ouverture plus tardive, même limitée à deux soirs par semaine, améliorerait leur accès aux livres et aux espaces de travail.\n\nD’abord, la bibliothèque représente un lieu important pour la formation. Les salariés qui préparent un examen ou souhaitent approfondir une compétence pourraient y travailler après leur journée. Un environnement calme et des ressources accessibles constituent une aide concrète, notamment pour les personnes dont le logement offre peu d’espace.\n\nEnsuite, ces horaires permettraient de développer des activités collectives. Un atelier de lecture ou d’écriture en début de soirée favoriserait les échanges entre des habitants qui se rencontrent rarement. Il pourrait également donner envie de revenir à ceux qui n’utilisent pas encore la bibliothèque.\n\nJe comprends toutefois qu’une ouverture supplémentaire exige du personnel et un financement. Il ne serait pas souhaitable de réduire les créneaux du matin sans étudier les besoins des usagers actuels. Nous pourrions commencer par une expérimentation de trois mois, avec un budget défini et une organisation préparée en concertation avec l’équipe.\n\nLe bilan devrait associer des chiffres de fréquentation à des avis recueillis auprès de plusieurs groupes. Il permettrait d’identifier les usages réels, les difficultés rencontrées et les améliorations possibles. Cette démarche éviterait de considérer le seul nombre d’entrées comme une preuve suffisante de réussite.\n\nPourriez-vous examiner cette proposition lors d’une prochaine réunion ? Je vous remercie de votre attention et reste disponible pour participer à la réflexion.\nCordialement.",
+      "notes": "Observe l’organisation, les informations utiles et les connecteurs. Compare ton texte au modèle sans chercher à le recopier. Le modèle est une proposition originale, pas un corrigé officiel."
+    },
+    "oral": {
+      "id": "cert-B2",
+      "title": "Expression orale B2",
+      "level": "B2",
+      "duration": 3,
+      "focus": "Défends l’ouverture d’une bibliothèque en soirée. Présente deux arguments et réponds à une objection.",
+      "text": "Prépare trois idées, puis parle sans lire le modèle.\n\nMadame,\nJe souhaite vous proposer une expérimentation d’ouverture en soirée de notre bibliothèque. Plusieurs habitants qui travaillent en journée ne peuvent pas profiter des horaires actuels. Une ouverture plus tardive, même limitée à deux soirs par semaine, améliorerait leur accès aux livres et aux espaces de travail.",
+      "advice": [
+        "Formule une idée principale et un exemple.",
+        "Marque des pauses pour séparer les idées.",
+        "Réécoute-toi pour juger la clarté, sans chercher à imiter un accent."
+      ]
+    }
+  },
+  {
+    "level": "C1",
+    "title": "Examen blanc C1",
+    "certification": "DALF",
+    "objective": "Comprendre les implicites, synthétiser plusieurs positions et construire une argumentation structurée.",
+    "reading": "Une collectivité souhaite dématérialiser plusieurs démarches afin de réduire les délais de traitement. Présentée comme une simplification, cette réforme repose sur une hypothèse rarement explicitée : les usagers disposeraient tous des ressources matérielles et des compétences nécessaires pour accomplir seuls les opérations demandées. Or, la possession d’un téléphone ne garantit ni une connexion stable, ni la capacité de comprendre une procédure administrative complexe.\n\nIl serait néanmoins réducteur d’opposer une administration numérique, nécessairement inaccessible, à un accueil physique, supposé toujours efficace. Les déplacements peuvent eux aussi constituer une difficulté, notamment pour les personnes éloignées des services ou soumises à des horaires contraignants. La question pertinente concerne donc l’articulation des moyens disponibles, plutôt que le choix exclusif d’un canal.\n\nLes associations locales défendent un accompagnement qui permette d’apprendre, tout en maintenant une possibilité de recours humain. Elles mettent en garde contre une aide limitée à remplir les formulaires à la place de l’usager : une telle réponse résout parfois l’urgence, mais peut entretenir la dépendance. À l’inverse, exiger une autonomie immédiate risque de transformer la démarche en épreuve.\n\nÉvaluer la réforme suppose enfin de dépasser la seule mesure du temps moyen de traitement. Un délai réduit pour les dossiers déposés ne renseigne pas sur les personnes qui ont renoncé avant de déposer le leur. La simplification ne peut être appréciée qu’en tenant compte de ces trajectoires invisibles. Cela impose de recueillir des données complémentaires et d’admettre que l’efficacité d’un service se juge aussi à sa capacité d’accueillir les situations qui résistent à la standardisation.",
+    "listening": "Quand on parle de simplifier les démarches, on pense souvent à réduire le nombre de cases dans un formulaire. C’est utile, mais ce n’est qu’une partie du problème. Une personne peut comprendre chaque question et ne pas savoir quel document correspond à sa situation. Une autre peut disposer du document sans réussir à le numériser. Il faut donc observer le parcours entier, au lieu de considérer seulement le moment où le dossier arrive au service. Je ne propose pas de supprimer les outils numériques. Ils peuvent éviter des déplacements et faciliter le suivi. Je demande que leur développement s’accompagne d’une possibilité de dialogue humain. Sans cela, on risque de déclarer la procédure plus rapide parce que les dossiers les plus difficiles n’arrivent plus jusqu’à nous.",
+    "writing": {
+      "id": "cert-C1",
+      "level": "C1",
+      "title": "Synthétiser des positions",
+      "duration": 45,
+      "instruction": "Rédige une synthèse de 200 à 240 mots des deux documents ci-dessous. Présente les accords et les divergences, sans ajouter ton opinion. Cet atelier est une adaptation courte, pas une épreuve DALF complète.\n\nDocument 1 : Une collectivité veut dématérialiser les démarches. Elle met en avant la réduction des déplacements, la disponibilité des formulaires et le suivi des dossiers. Elle considère qu’un accompagnement initial suffit généralement à rendre les usagers autonomes.\n\nDocument 2 : Des associations reconnaissent l’utilité du numérique, mais rappellent les difficultés de connexion, de compréhension et de numérisation. Elles demandent un recours humain permanent et une évaluation prenant en compte les abandons avant dépôt.",
+      "min": 200,
+      "plan": [
+        "Identifie le thème commun.",
+        "Présente les bénéfices reconnus.",
+        "Expose la divergence sur l’accompagnement.",
+        "Relie les critères d’évaluation à l’accès réel.",
+        "Vérifie neutralité et longueur."
+      ],
+      "model": "Les deux documents examinent les conditions d’une simplification des démarches par le numérique. Ils reconnaissent que la dématérialisation peut limiter les déplacements et faciliter certaines opérations, mais ils diffèrent quant aux moyens nécessaires pour garantir l’accès de tous au service.\n\nLa collectivité insiste sur la disponibilité des formulaires et sur la possibilité de suivre les dossiers. Elle envisage l’accompagnement comme une étape initiale, susceptible de conduire les usagers vers une autonomie durable. La réforme est ainsi présentée principalement à travers ses avantages pratiques.\n\nLes associations ne rejettent pas ces bénéfices. Elles soulignent toutefois que les obstacles dépassent la prise en main d’un outil : une connexion instable, une consigne difficile à comprendre ou un document impossible à numériser peuvent empêcher la démarche. Pour cette raison, elles défendent le maintien d’un recours humain, y compris après un premier apprentissage.\n\nLa divergence concerne également l’appréciation des résultats. Les associations souhaitent intégrer les personnes qui abandonnent avant de déposer un dossier, afin que l’évaluation ne porte pas uniquement sur les démarches achevées. Les textes opposent donc moins deux choix techniques qu’ils ne proposent des conceptions différentes de l’accompagnement et de la mesure de l’accessibilité. La simplification apparaît comme un objectif commun dont les conditions de réalisation restent à préciser.",
+      "notes": "Observe l’organisation, les informations utiles et les connecteurs. Compare ton texte au modèle sans chercher à le recopier. Le modèle est une proposition originale, pas un corrigé officiel."
+    },
+    "oral": {
+      "id": "cert-C1",
+      "title": "Expression orale C1",
+      "level": "C1",
+      "duration": 5,
+      "focus": "Présente les deux positions sur les démarches numériques, puis distingue clairement ton propre avis.",
+      "text": "Prépare trois idées, puis parle sans lire le modèle.\n\nLes deux documents examinent les conditions d’une simplification des démarches par le numérique. Ils reconnaissent que la dématérialisation peut limiter les déplacements et faciliter certaines opérations, mais ils diffèrent quant aux moyens nécessaires pour garantir l’accès de tous au service.",
+      "advice": [
+        "Formule une idée principale et un exemple.",
+        "Marque des pauses pour séparer les idées.",
+        "Réécoute-toi pour juger la clarté, sans chercher à imiter un accent."
+      ]
+    }
+  },
+  {
+    "level": "C2",
+    "title": "Examen blanc C2",
+    "certification": "DALF",
+    "objective": "Saisir des nuances fines, reformuler avec précision et contrôler la portée d’une argumentation.",
+    "reading": "Dans les débats sur l’éducation, la mesure apparaît souvent comme une promesse de clarté : convertir des performances en nombres permettrait de comparer les méthodes et d’éclairer les décisions. Le propos mérite d’être pris au sérieux. Une impression favorable ne suffit pas à établir qu’un dispositif produit les effets annoncés, et l’absence d’indicateurs peut laisser prospérer des pratiques inefficaces.\n\nCette exigence ne dispense pourtant pas d’interroger ce que l’indicateur rend visible. Lorsqu’une évaluation privilégie les réponses aisément codables, elle risque de faire passer une commodité méthodologique pour une définition de la compétence. Identifier la forme correcte d’un verbe parmi trois propositions et mobiliser spontanément cette forme dans une argumentation ne constituent pas des activités équivalentes. La première peut contribuer à apprécier la seconde, sans lui être substituable.\n\nIl serait tout aussi fragile d’en déduire que toute quantification appauvrit nécessairement l’apprentissage. Le problème tient moins au nombre lui-même qu’à l’autorité qu’on lui attribue et aux inférences qu’on en tire. Une mesure partielle devient trompeuse lorsqu’elle est présentée comme un portrait exhaustif ; elle reste utile si son périmètre est explicite et si elle est confrontée à d’autres observations.\n\nOn pourrait objecter que multiplier les critères rend la décision plus incertaine. C’est exact, mais l’incertitude ainsi révélée n’est pas créée par l’évaluation : elle préexistait, dissimulée par la simplicité du classement. Assumer cette complexité ne conduit pas à renoncer à décider. Cela invite à distinguer les décisions qui réclament un seuil conventionnel de celles qui exigent une compréhension fine d’un parcours.\n\nUne évaluation responsable ne promet donc pas de dissiper tout doute. Elle cherche plutôt à rendre les raisons du jugement discutables, au sens où elles peuvent être examinées, contestées et révisées. Cette possibilité de révision constitue une condition de rigueur, plutôt qu’un aveu de faiblesse.",
+    "listening": "Je ne conteste pas l’intérêt des résultats chiffrés. Ce que je conteste, c’est leur transformation en verdict lorsque les conditions de leur production disparaissent de la discussion. Un score est le résultat d’un dispositif : il dépend des tâches choisies, du temps accordé, des critères retenus et des activités laissées de côté. Exposer ces choix ne revient pas à relativiser toute connaissance. Cela permet, au contraire, de déterminer les usages légitimes de la mesure. Prenons un questionnaire grammatical. Il peut nous renseigner sur la reconnaissance de formes correctes. Il ne suffit pas, à lui seul, à décrire la capacité de rédiger une lettre convaincante. Ce serait commettre une erreur de portée, plutôt qu’une erreur de calcul. La prudence n’interdit donc pas de conclure ; elle oblige à formuler une conclusion dont l’étendue corresponde aux preuves disponibles.",
+    "writing": {
+      "id": "cert-C2",
+      "level": "C2",
+      "title": "Argumenter avec précision et nuance",
+      "duration": 45,
+      "instruction": "À partir du texte sur l’évaluation, rédige une contribution argumentée : « Peut-on résumer une compétence par un score ? » Présente une thèse, une concession, une objection et une réponse. Délimite la portée de tes affirmations. Cet entraînement n’est pas une reproduction du DALF C2.",
+      "min": 300,
+      "plan": [
+        "Définis ce que mesure le score.",
+        "Présente une thèse nuancée.",
+        "Reconnais un avantage de la quantification.",
+        "Traite une objection avec un exemple.",
+        "Conclus sans généraliser excessivement."
+      ],
+      "model": "Résumer une compétence par un score peut être utile, à condition de ne pas confondre cet outil de synthèse avec une description exhaustive de la personne. Un nombre facilite la comparaison de résultats et permet parfois de repérer un progrès. Il ne rend cependant pas visibles toutes les activités qui composent une compétence.\n\nIl faut d’abord reconnaître les avantages de la mesure. Sans critères communs, l’évaluation risque de dépendre uniquement d’impressions. Un questionnaire clairement construit peut montrer qu’un apprenant reconnaît mieux certaines formes grammaticales qu’auparavant. Cette information est pertinente pour choisir des exercices et vérifier un apprentissage ciblé.\n\nToutefois, une réussite dans ce dispositif ne suffit pas à établir que les mêmes connaissances seront mobilisées dans une rédaction libre. Le choix d’une réponse correcte parmi plusieurs possibilités et la construction autonome d’un texte sollicitent des ressources partiellement différentes. Déduire la maîtrise de la seconde activité à partir de la seule première constituerait une généralisation excessive.\n\nOn peut objecter qu’une évaluation comportant trop de critères devient difficile à comprendre. Cette objection mérite d’être prise en compte : un bilan illisible n’aide ni l’apprenant ni l’enseignant. Il est néanmoins possible de présenter une synthèse simple tout en donnant accès à son détail. Un profil distinguant l’orthographe, la compréhension et la rédaction permet, par exemple, de conserver un repère global sans masquer des écarts importants.\n\nIl convient aussi de préciser ce qui n’a pas été observé. L’absence de données sur l’expression orale ne devrait pas être transformée en preuve d’un niveau faible, pas plus qu’une bonne compréhension ne devrait garantir une écriture soignée. Cette transparence donne au score une portée proportionnée aux éléments recueillis.\n\nLe nombre peut donc soutenir l’apprentissage, mais il gagne à être accompagné d’exemples, de tâches variées et d’explications. La rigueur ne consiste pas à promettre un verdict définitif ; elle consiste à formuler un jugement que de nouvelles observations pourront enrichir ou réviser.",
+      "notes": "Observe l’organisation, les informations utiles et les connecteurs. Compare ton texte au modèle sans chercher à le recopier. Le modèle est une proposition originale, pas un corrigé officiel."
+    },
+    "oral": {
+      "id": "cert-C2",
+      "title": "Expression orale C2",
+      "level": "C2",
+      "duration": 5,
+      "focus": "Discute les limites d’un score. Formule une objection à ta thèse et réponds-y en nuançant tes conclusions.",
+      "text": "Prépare trois idées, puis parle sans lire le modèle.\n\nRésumer une compétence par un score peut être utile, à condition de ne pas confondre cet outil de synthèse avec une description exhaustive de la personne. Un nombre facilite la comparaison de résultats et permet parfois de repérer un progrès. Il ne rend cependant pas visibles toutes les activités qui composent une compétence.",
+      "advice": [
+        "Formule une idée principale et un exemple.",
+        "Marque des pauses pour séparer les idées.",
+        "Réécoute-toi pour juger la clarté, sans chercher à imiter un accent."
+      ]
+    }
+  }
+]

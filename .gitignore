@@ -1,0 +1,15 @@
+node_modules/
+.expo/
+dist/
+test-results/
+playwright-report/
+*.tsbuildinfo
+
+# Android build artifacts and local SDK configuration
+android/.gradle/
+android/.kotlin/
+android/build/
+android/app/build/
+android/local.properties
+android/.cxx/
+android/app/.cxx/

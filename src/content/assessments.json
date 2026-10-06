@@ -1,0 +1,1248 @@
+[
+  {
+    "id": "cefr-A1-01",
+    "cefr": "A1",
+    "assessmentRole": "placement",
+    "skill": "homophones",
+    "level": 1,
+    "prompt": "Complète : « Elle ___ un cahier. »",
+    "choices": ["a", "à", "as"],
+    "answer": 0,
+    "explanation": "A est avoir avec elle ; on peut dire elle avait un cahier.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "a-et-son"
+  },
+  {
+    "id": "cefr-A1-02",
+    "cefr": "A1",
+    "assessmentRole": "placement",
+    "skill": "grammaire",
+    "level": 1,
+    "prompt": "Complète : « ___ maison est blanche. »",
+    "choices": ["Cet", "Ce", "Cette"],
+    "answer": 2,
+    "explanation": "Maison est féminin singulier : cette maison.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "determinants"
+  },
+  {
+    "id": "cefr-A1-03",
+    "cefr": "A1",
+    "assessmentRole": "placement",
+    "skill": "conjugaison",
+    "level": 1,
+    "prompt": "Au présent : « Nous ___ français. »",
+    "choices": ["parlent", "parlons", "parlez"],
+    "answer": 1,
+    "explanation": "Avec nous, parler se conjugue parlons au présent.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "present"
+  },
+  {
+    "id": "cefr-A1-04",
+    "cefr": "A1",
+    "assessmentRole": "placement",
+    "skill": "orthographe",
+    "level": 1,
+    "prompt": "Quel mot est correctement écrit ?",
+    "choices": ["école", "ecôle", "écolle"],
+    "answer": 0,
+    "explanation": "École commence par un e portant un accent aigu.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "accents"
+  },
+  {
+    "id": "cefr-A1-05",
+    "cefr": "A1",
+    "assessmentRole": "placement",
+    "skill": "vocabulaire",
+    "level": 1,
+    "prompt": "Pour demander de l’aide poliment, quelle phrase convient ?",
+    "choices": [
+      "Aide-moi immédiatement !",
+      "Je n’ai pas besoin de toi.",
+      "Pouvez-vous m’aider, s’il vous plaît ?"
+    ],
+    "answer": 2,
+    "explanation": "La demande explicite et la formule de politesse conviennent.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "registre"
+  },
+  {
+    "id": "cefr-A1-06",
+    "cefr": "A1",
+    "assessmentRole": "placement",
+    "skill": "redaction",
+    "level": 1,
+    "prompt": "Pour déplacer un rendez-vous, quelle information faut-il donner ?",
+    "choices": [
+      "Le titre de son livre préféré.",
+      "Une nouvelle date ou une proposition d’horaire.",
+      "Seulement son prénom."
+    ],
+    "answer": 1,
+    "explanation": "Le destinataire a besoin de savoir quand le rendez-vous peut avoir lieu.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "structure"
+  },
+  {
+    "id": "cefr-A1-07",
+    "cefr": "A1",
+    "assessmentRole": "placement",
+    "skill": "comprehension",
+    "level": 1,
+    "prompt": "Dans le texte, où Nora travaille-t-elle ?",
+    "choices": ["Dans une librairie.", "Dans une école.", "Dans une gare."],
+    "answer": 0,
+    "explanation": "Le texte indique explicitement qu’elle travaille dans une librairie.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "context": "Bonjour, je m’appelle Nora. J’habite à Pointe-Noire avec ma sœur. Je travaille dans une librairie. Le magasin ouvre à neuf heures et ferme à dix-huit heures. Le dimanche, je ne travaille pas. Je lis et je retrouve mes amis au parc. Cette semaine, je cherche un livre pour l’anniversaire de ma sœur. Elle aime les histoires de voyage."
+  },
+  {
+    "id": "cefr-A2-01",
+    "cefr": "A2",
+    "assessmentRole": "placement",
+    "skill": "homophones",
+    "level": 1,
+    "prompt": "Indique la possession : « Les clés appartiennent à Nora. Ce sont ___ clés. »",
+    "choices": ["ces", "s’est", "ses"],
+    "answer": 2,
+    "explanation": "Ses est le déterminant possessif ; les clés appartiennent à Nora.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "ces-ses"
+  },
+  {
+    "id": "cefr-A2-02",
+    "cefr": "A2",
+    "assessmentRole": "placement",
+    "skill": "grammaire",
+    "level": 1,
+    "prompt": "Complète : « Les enfants du voisin ___ dehors. »",
+    "choices": ["joues", "jouent", "joue"],
+    "answer": 1,
+    "explanation": "Le sujet grammatical est les enfants, au pluriel.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "accords"
+  },
+  {
+    "id": "cefr-A2-03",
+    "cefr": "A2",
+    "assessmentRole": "placement",
+    "skill": "conjugaison",
+    "level": 1,
+    "prompt": "Au passé composé : « Hier, elles sont ___ tôt. »",
+    "choices": ["arrivées", "arrivé", "arrivés"],
+    "answer": 0,
+    "explanation": "Avec être, le participe s’accorde avec elles : féminin pluriel.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "temps"
+  },
+  {
+    "id": "cefr-A2-04",
+    "cefr": "A2",
+    "assessmentRole": "placement",
+    "skill": "orthographe",
+    "level": 1,
+    "prompt": "Quelle graphie est correcte ?",
+    "choices": ["une addresse", "une adrese", "une adresse"],
+    "answer": 2,
+    "explanation": "Adresse comporte un d et deux s.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "mots"
+  },
+  {
+    "id": "cefr-A2-05",
+    "cefr": "A2",
+    "assessmentRole": "placement",
+    "skill": "vocabulaire",
+    "level": 1,
+    "prompt": "Quel mot signifie « un déplacement vers un autre lieu » ?",
+    "choices": ["Un témoignage.", "Un trajet.", "Un tarif."],
+    "answer": 1,
+    "explanation": "Un trajet correspond au chemin parcouru pour se déplacer.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "nuances"
+  },
+  {
+    "id": "cefr-A2-06",
+    "cefr": "A2",
+    "assessmentRole": "placement",
+    "skill": "redaction",
+    "level": 1,
+    "prompt": "Quelle phrase explique une cause ?",
+    "choices": [
+      "Je reporte la rencontre parce que je travaille.",
+      "Je travaille, puis je lis.",
+      "Je travaille ; cependant, je lis."
+    ],
+    "answer": 0,
+    "explanation": "Parce que introduit la raison du report.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "connecteurs"
+  },
+  {
+    "id": "cefr-A2-07",
+    "cefr": "A2",
+    "assessmentRole": "placement",
+    "skill": "comprehension",
+    "level": 1,
+    "prompt": "Dans l’annonce, quelle condition permet de participer ?",
+    "choices": [
+      "Payer douze euros.",
+      "Être obligatoirement un excellent lecteur.",
+      "S’inscrire avant le jeudi 16 octobre."
+    ],
+    "answer": 2,
+    "explanation": "L’inscription a une date limite ; l’atelier est gratuit et sans note.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "context": "La bibliothèque du quartier propose un atelier de lecture le samedi 18 octobre, de dix heures à midi. Il est gratuit et ouvert aux adultes. Les participants doivent s’inscrire avant le jeudi 16 octobre, car la salle ne peut accueillir que douze personnes. Chaque personne apporte un court texte qu’elle aime. Pendant la séance, chacun lit un passage à voix haute, puis les autres partagent leurs impressions. On ne donne pas de note. Les personnes qui préfèrent écouter peuvent aussi participer. Pour s’inscrire, il suffit de donner son prénom à l’accueil de la bibliothèque."
+  },
+  {
+    "id": "cefr-B1-01",
+    "cefr": "B1",
+    "assessmentRole": "placement",
+    "skill": "homophones",
+    "level": 2,
+    "prompt": "Complète : « Je ___ ai expliqué comment ranger ___ dossiers. »",
+    "choices": ["leurs / leurs", "leur / leurs", "leurs / leur"],
+    "answer": 1,
+    "explanation": "Leur devant un verbe est invariable ; leurs accompagne le nom pluriel dossiers.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "ce-se"
+  },
+  {
+    "id": "cefr-B1-02",
+    "cefr": "B1",
+    "assessmentRole": "placement",
+    "skill": "grammaire",
+    "level": 2,
+    "prompt": "Complète : « C’est une difficulté ___ nous parlons souvent. »",
+    "choices": ["dont", "que", "où"],
+    "answer": 0,
+    "explanation": "On parle de cette difficulté ; dont remplace ce complément en de.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "phrases"
+  },
+  {
+    "id": "cefr-B1-03",
+    "cefr": "B1",
+    "assessmentRole": "placement",
+    "skill": "conjugaison",
+    "level": 2,
+    "prompt": "Pour décrire une habitude passée : « Chaque soir, je ___ ce texte. »",
+    "choices": ["lirai", "lirais", "lisais"],
+    "answer": 2,
+    "explanation": "Une habitude passée se décrit ici à l’imparfait : lisais.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "temps"
+  },
+  {
+    "id": "cefr-B1-04",
+    "cefr": "B1",
+    "assessmentRole": "placement",
+    "skill": "orthographe",
+    "level": 2,
+    "prompt": "Complète au pluriel : « Des remarques ___ et utiles. »",
+    "choices": ["précis", "précises", "précise"],
+    "answer": 1,
+    "explanation": "Remarques est féminin pluriel : précises.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "mots"
+  },
+  {
+    "id": "cefr-B1-05",
+    "cefr": "B1",
+    "assessmentRole": "placement",
+    "skill": "vocabulaire",
+    "level": 2,
+    "prompt": "Une explication compréhensible est une explication…",
+    "choices": [
+      "que l’on peut comprendre.",
+      "qui pardonne les erreurs.",
+      "qui ne comporte aucune information."
+    ],
+    "answer": 0,
+    "explanation": "Compréhensible qualifie ce qui peut être compris ; compréhensif qualifie une attitude.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "nuances"
+  },
+  {
+    "id": "cefr-B1-06",
+    "cefr": "B1",
+    "assessmentRole": "placement",
+    "skill": "redaction",
+    "level": 2,
+    "prompt": "Pour défendre « la lecture est utile », quel exemple soutient directement l’idée ?",
+    "choices": [
+      "Les livres occupent une étagère.",
+      "La salle possède trois fenêtres.",
+      "Un récit aide à découvrir des mots en contexte."
+    ],
+    "answer": 2,
+    "explanation": "L’exemple établit un lien entre lecture et apprentissage du vocabulaire.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "structure"
+  },
+  {
+    "id": "cefr-B1-07",
+    "cefr": "B1",
+    "assessmentRole": "placement",
+    "skill": "comprehension",
+    "level": 2,
+    "prompt": "Sami recommande-t-il le vélo à tous ses collègues sans exception ?",
+    "choices": [
+      "Oui, même quand il pleut fortement.",
+      "Non, il tient compte des contraintes de chacun.",
+      "Oui, il refuse toute autre solution."
+    ],
+    "answer": 1,
+    "explanation": "Il évoque les distances, le matériel et utilise lui-même le bus par forte pluie.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "context": "Depuis trois mois, Sami se rend au travail à vélo deux fois par semaine. Au début, il craignait d’arriver fatigué. Il a donc choisi un trajet plus long, mais moins fréquenté, et préparé ses affaires la veille. Aujourd’hui, il apprécie ce temps de déplacement : il observe le quartier et commence sa journée plus calmement.\n\nIl ne pense pourtant pas que tout le monde devrait faire le même choix. Certains collègues habitent loin et d’autres transportent du matériel lourd. Lorsqu’il pleut fortement, Sami prend lui-même le bus. À ses yeux, une bonne solution doit tenir compte de la situation de chacun. Il souhaiterait que son entreprise installe un abri pour les vélos et améliore les vestiaires. Il en a parlé à la direction, qui étudiera sa proposition lors de la prochaine réunion. Rien n’a encore été décidé."
+  },
+  {
+    "id": "cefr-B2-01",
+    "cefr": "B2",
+    "assessmentRole": "placement",
+    "skill": "homophones",
+    "level": 2,
+    "prompt": "Complète : « ___ qu’il arrive, nous examinerons la proposition. »",
+    "choices": ["Quoi", "Quoique", "Quoi que"],
+    "answer": 0,
+    "explanation": "La locution concessive est « quoi qu’il arrive » : quoi est suivi du que déjà présent dans la phrase.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "ce-se"
+  },
+  {
+    "id": "cefr-B2-02",
+    "cefr": "B2",
+    "assessmentRole": "placement",
+    "skill": "grammaire",
+    "level": 2,
+    "prompt": "Complète : « Les réserves qu’elle a ___ sont justifiées. »",
+    "choices": ["formulé", "formulés", "formulées"],
+    "answer": 2,
+    "explanation": "Le COD les réserves précède avoir : accord féminin pluriel.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "participes"
+  },
+  {
+    "id": "cefr-B2-03",
+    "cefr": "B2",
+    "assessmentRole": "placement",
+    "skill": "conjugaison",
+    "level": 2,
+    "prompt": "Complète : « Bien que ce choix ___ difficile, il reste nécessaire. »",
+    "choices": ["sera", "soit", "est"],
+    "answer": 1,
+    "explanation": "Bien que appelle le subjonctif : soit.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "modes"
+  },
+  {
+    "id": "cefr-B2-04",
+    "cefr": "B2",
+    "assessmentRole": "placement",
+    "skill": "orthographe",
+    "level": 2,
+    "prompt": "Complète : « Il a ___ reporter la réunion. »",
+    "choices": ["dû", "du", "dù"],
+    "answer": 0,
+    "explanation": "Le participe passé masculin singulier de devoir est dû.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "accents"
+  },
+  {
+    "id": "cefr-B2-05",
+    "cefr": "B2",
+    "assessmentRole": "placement",
+    "skill": "vocabulaire",
+    "level": 2,
+    "prompt": "Quel mot signifie « approprié à la question étudiée » ?",
+    "choices": ["Exhaustif.", "Éphémère.", "Pertinent."],
+    "answer": 2,
+    "explanation": "Pertinent désigne ce qui est adapté au sujet ; exhaustif signifie complet.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "registre"
+  },
+  {
+    "id": "cefr-B2-06",
+    "cefr": "B2",
+    "assessmentRole": "placement",
+    "skill": "redaction",
+    "level": 2,
+    "prompt": "Quelle formulation défend une position tout en reconnaissant une limite ?",
+    "choices": [
+      "Puisque certains hésitent, aucune discussion n’est possible.",
+      "Cette mesure semble utile, à condition de prévoir les moyens nécessaires.",
+      "Cette mesure est parfaite dans tous les cas."
+    ],
+    "answer": 1,
+    "explanation": "La condition précise la portée de la proposition sans supprimer l’argument.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "clarte"
+  },
+  {
+    "id": "cefr-B2-07",
+    "cefr": "B2",
+    "assessmentRole": "placement",
+    "skill": "comprehension",
+    "level": 2,
+    "prompt": "Quel est le principal désaccord entre l’association et la responsable ?",
+    "choices": [
+      "Les moyens et les critères d’évaluation de l’expérimentation.",
+      "L’interdiction de tout accès aux livres.",
+      "La suppression immédiate de la bibliothèque."
+    ],
+    "answer": 0,
+    "explanation": "Les deux parties souhaitent essayer, mais n’apprécient pas la réussite selon les mêmes critères.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "context": "Une association propose de prolonger l’ouverture de la bibliothèque deux soirs par semaine. Ses membres estiment que les horaires actuels excluent de fait une partie des habitants qui travaillent en journée. Ils soulignent que l’accès aux livres ne dépend pas seulement du nombre de documents disponibles, mais aussi de la possibilité de se rendre sur place.\n\nLa responsable de la bibliothèque reconnaît ce besoin. Elle rappelle toutefois qu’une ouverture prolongée nécessite du personnel, une organisation adaptée et un budget stable. Déplacer simplement les heures de travail pourrait réduire l’accueil à d’autres moments. Elle propose donc une expérimentation de trois mois, accompagnée d’un suivi de la fréquentation.\n\nPour l’association, le nombre de visiteurs ne devrait pas être l’unique indicateur. Certains usages, comme la préparation d’un examen ou l’aide à une démarche administrative, demandent du temps sans produire une forte rotation du public. Une enquête qualitative compléterait utilement les chiffres.\n\nLes deux parties s’accordent sur l’intérêt d’essayer, mais elles ne définissent pas encore la réussite de la même façon. Le débat porte ainsi moins sur le principe d’un meilleur accès que sur les moyens de le garantir et les critères qui permettront de juger l’essai."
+  },
+  {
+    "id": "cefr-C1-01",
+    "cefr": "C1",
+    "assessmentRole": "placement",
+    "skill": "homophones",
+    "level": 3,
+    "prompt": "Complète : « ___ cette mesure soit utile, elle ne résout pas tout. »",
+    "choices": ["Quoi que", "Quelque", "Quoique"],
+    "answer": 2,
+    "explanation": "Quoique signifie ici bien que et introduit une concession.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "ce-se"
+  },
+  {
+    "id": "cefr-C1-02",
+    "cefr": "C1",
+    "assessmentRole": "placement",
+    "skill": "grammaire",
+    "level": 3,
+    "prompt": "Complète : « Elles se sont ___ de leurs difficultés. »",
+    "choices": ["souvenus", "souvenues", "souvenu"],
+    "answer": 1,
+    "explanation": "Se souvenir est un verbe essentiellement pronominal : accord avec elles.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "participes"
+  },
+  {
+    "id": "cefr-C1-03",
+    "cefr": "C1",
+    "assessmentRole": "placement",
+    "skill": "conjugaison",
+    "level": 3,
+    "prompt": "Complète : « Il aurait fallu que nous ___ plus tôt. »",
+    "choices": ["intervenions", "intervenons", "interviendrons"],
+    "answer": 0,
+    "explanation": "Après il aurait fallu que, le subjonctif présent intervenions est correct dans l’usage contemporain.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "modes"
+  },
+  {
+    "id": "cefr-C1-04",
+    "cefr": "C1",
+    "assessmentRole": "placement",
+    "skill": "orthographe",
+    "level": 3,
+    "prompt": "Dans le sens de « quelles que soient les difficultés », complète : « ___ difficiles qu’elles soient, ces démarches restent nécessaires. »",
+    "choices": ["Quelques", "Quelles que", "Quelque"],
+    "answer": 2,
+    "explanation": "Quelque devant l’adjectif est ici un adverbe concessif invariable.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "mots"
+  },
+  {
+    "id": "cefr-C1-05",
+    "cefr": "C1",
+    "assessmentRole": "placement",
+    "skill": "vocabulaire",
+    "level": 3,
+    "prompt": "Dans le texte, une trajectoire « invisible » désigne…",
+    "choices": [
+      "une démarche nécessairement inexistante.",
+      "un parcours d’usager absent des dossiers effectivement déposés.",
+      "une personne qui ne possède aucun document d’identité."
+    ],
+    "answer": 1,
+    "explanation": "Le texte parle des personnes qui abandonnent avant le dépôt et échappent donc aux chiffres habituels.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "nuances",
+    "context": "Une collectivité souhaite dématérialiser plusieurs démarches afin de réduire les délais de traitement. Présentée comme une simplification, cette réforme repose sur une hypothèse rarement explicitée : les usagers disposeraient tous des ressources matérielles et des compétences nécessaires pour accomplir seuls les opérations demandées. Or, la possession d’un téléphone ne garantit ni une connexion stable, ni la capacité de comprendre une procédure administrative complexe.\n\nIl serait néanmoins réducteur d’opposer une administration numérique, nécessairement inaccessible, à un accueil physique, supposé toujours efficace. Les déplacements peuvent eux aussi constituer une difficulté, notamment pour les personnes éloignées des services ou soumises à des horaires contraignants. La question pertinente concerne donc l’articulation des moyens disponibles, plutôt que le choix exclusif d’un canal.\n\nLes associations locales défendent un accompagnement qui permette d’apprendre, tout en maintenant une possibilité de recours humain. Elles mettent en garde contre une aide limitée à remplir les formulaires à la place de l’usager : une telle réponse résout parfois l’urgence, mais peut entretenir la dépendance. À l’inverse, exiger une autonomie immédiate risque de transformer la démarche en épreuve.\n\nÉvaluer la réforme suppose enfin de dépasser la seule mesure du temps moyen de traitement. Un délai réduit pour les dossiers déposés ne renseigne pas sur les personnes qui ont renoncé avant de déposer le leur. La simplification ne peut être appréciée qu’en tenant compte de ces trajectoires invisibles. Cela impose de recueillir des données complémentaires et d’admettre que l’efficacité d’un service se juge aussi à sa capacité d’accueillir les situations qui résistent à la standardisation."
+  },
+  {
+    "id": "cefr-C1-06",
+    "cefr": "C1",
+    "assessmentRole": "placement",
+    "skill": "redaction",
+    "level": 3,
+    "prompt": "Pour synthétiser deux documents contradictoires, il faut…",
+    "choices": [
+      "présenter leurs points communs et leurs divergences sans inventer un consensus.",
+      "retenir seulement celui avec lequel on est d’accord.",
+      "copier les deux introductions et ajouter une opinion."
+    ],
+    "answer": 0,
+    "explanation": "Une synthèse doit restituer les positions et leur articulation sans les déformer.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "structure"
+  },
+  {
+    "id": "cefr-C1-07",
+    "cefr": "C1",
+    "assessmentRole": "placement",
+    "skill": "comprehension",
+    "level": 3,
+    "prompt": "Quelle hypothèse implicite de la réforme l’auteur interroge-t-il ?",
+    "choices": [
+      "L’impossibilité de toute démarche numérique.",
+      "L’absence totale de contraintes dans l’accueil physique.",
+      "L’autonomie matérielle et procédurale supposée de tous les usagers."
+    ],
+    "answer": 2,
+    "explanation": "L’auteur conteste l’hypothèse que chaque usager peut accomplir seul la démarche.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "context": "Une collectivité souhaite dématérialiser plusieurs démarches afin de réduire les délais de traitement. Présentée comme une simplification, cette réforme repose sur une hypothèse rarement explicitée : les usagers disposeraient tous des ressources matérielles et des compétences nécessaires pour accomplir seuls les opérations demandées. Or, la possession d’un téléphone ne garantit ni une connexion stable, ni la capacité de comprendre une procédure administrative complexe.\n\nIl serait néanmoins réducteur d’opposer une administration numérique, nécessairement inaccessible, à un accueil physique, supposé toujours efficace. Les déplacements peuvent eux aussi constituer une difficulté, notamment pour les personnes éloignées des services ou soumises à des horaires contraignants. La question pertinente concerne donc l’articulation des moyens disponibles, plutôt que le choix exclusif d’un canal.\n\nLes associations locales défendent un accompagnement qui permette d’apprendre, tout en maintenant une possibilité de recours humain. Elles mettent en garde contre une aide limitée à remplir les formulaires à la place de l’usager : une telle réponse résout parfois l’urgence, mais peut entretenir la dépendance. À l’inverse, exiger une autonomie immédiate risque de transformer la démarche en épreuve.\n\nÉvaluer la réforme suppose enfin de dépasser la seule mesure du temps moyen de traitement. Un délai réduit pour les dossiers déposés ne renseigne pas sur les personnes qui ont renoncé avant de déposer le leur. La simplification ne peut être appréciée qu’en tenant compte de ces trajectoires invisibles. Cela impose de recueillir des données complémentaires et d’admettre que l’efficacité d’un service se juge aussi à sa capacité d’accueillir les situations qui résistent à la standardisation."
+  },
+  {
+    "id": "cefr-C2-01",
+    "cefr": "C2",
+    "assessmentRole": "placement",
+    "skill": "homophones",
+    "level": 3,
+    "prompt": "Dans une hypothèse irréelle, complète : « ___ la méthode serait efficace, il faudrait encore en préciser les limites. »",
+    "choices": ["Qu’en bien même", "Quand bien même", "Quant bien même"],
+    "answer": 1,
+    "explanation": "La locution concessive hypothétique est quand bien même.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "ce-se"
+  },
+  {
+    "id": "cefr-C2-02",
+    "cefr": "C2",
+    "assessmentRole": "placement",
+    "skill": "grammaire",
+    "level": 3,
+    "prompt": "Complète : « Les efforts qu’il a ___ pour apprendre ont porté leurs fruits. »",
+    "choices": ["faits", "fait", "faites"],
+    "answer": 0,
+    "explanation": "Les efforts est le COD masculin pluriel placé avant avoir : faits. Le complément pour apprendre ne change pas cet accord.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "participes"
+  },
+  {
+    "id": "cefr-C2-03",
+    "cefr": "C2",
+    "assessmentRole": "placement",
+    "skill": "conjugaison",
+    "level": 3,
+    "prompt": "Dans une concession au registre soutenu : « ___-il se tromper, cela n’invaliderait pas toute sa démarche. »",
+    "choices": ["Dut", "Dû", "Dût"],
+    "answer": 2,
+    "explanation": "Dût est une forme d’imparfait du subjonctif employée dans cette inversion concessive ; dut est un passé simple.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "modes"
+  },
+  {
+    "id": "cefr-C2-04",
+    "cefr": "C2",
+    "assessmentRole": "placement",
+    "skill": "orthographe",
+    "level": 3,
+    "prompt": "Quelle phrase comporte la bonne graphie de la concession ?",
+    "choices": [
+      "Quels que soient ses raisons, cette décision mérite un examen.",
+      "Quelles que soient ses raisons, cette décision mérite un examen.",
+      "Qu’elles que soient ses raisons, cette décision mérite un examen."
+    ],
+    "answer": 1,
+    "explanation": "Quelles que soient s’accorde avec raisons, féminin pluriel ; qu’elles correspond à que + elles.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "mots"
+  },
+  {
+    "id": "cefr-C2-05",
+    "cefr": "C2",
+    "assessmentRole": "placement",
+    "skill": "vocabulaire",
+    "level": 3,
+    "prompt": "Une « erreur de portée » signifie ici…",
+    "choices": [
+      "une conclusion qui dépasse ce que les données permettent d’affirmer.",
+      "une addition mal effectuée.",
+      "une absence de toute donnée chiffrée."
+    ],
+    "answer": 0,
+    "explanation": "Le texte oppose l’étendue injustifiée d’une conclusion à une simple erreur de calcul.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "nuances",
+    "context": "Dans les débats sur l’éducation, la mesure apparaît souvent comme une promesse de clarté : convertir des performances en nombres permettrait de comparer les méthodes et d’éclairer les décisions. Le propos mérite d’être pris au sérieux. Une impression favorable ne suffit pas à établir qu’un dispositif produit les effets annoncés, et l’absence d’indicateurs peut laisser prospérer des pratiques inefficaces.\n\nCette exigence ne dispense pourtant pas d’interroger ce que l’indicateur rend visible. Lorsqu’une évaluation privilégie les réponses aisément codables, elle risque de faire passer une commodité méthodologique pour une définition de la compétence. Identifier la forme correcte d’un verbe parmi trois propositions et mobiliser spontanément cette forme dans une argumentation ne constituent pas des activités équivalentes. La première peut contribuer à apprécier la seconde, sans lui être substituable.\n\nIl serait tout aussi fragile d’en déduire que toute quantification appauvrit nécessairement l’apprentissage. Le problème tient moins au nombre lui-même qu’à l’autorité qu’on lui attribue et aux inférences qu’on en tire. Une mesure partielle devient trompeuse lorsqu’elle est présentée comme un portrait exhaustif ; elle reste utile si son périmètre est explicite et si elle est confrontée à d’autres observations.\n\nOn pourrait objecter que multiplier les critères rend la décision plus incertaine. C’est exact, mais l’incertitude ainsi révélée n’est pas créée par l’évaluation : elle préexistait, dissimulée par la simplicité du classement. Assumer cette complexité ne conduit pas à renoncer à décider. Cela invite à distinguer les décisions qui réclament un seuil conventionnel de celles qui exigent une compréhension fine d’un parcours.\n\nUne évaluation responsable ne promet donc pas de dissiper tout doute. Elle cherche plutôt à rendre les raisons du jugement discutables, au sens où elles peuvent être examinées, contestées et révisées. Cette possibilité de révision constitue une condition de rigueur, plutôt qu’un aveu de faiblesse."
+  },
+  {
+    "id": "cefr-C2-06",
+    "cefr": "C2",
+    "assessmentRole": "placement",
+    "skill": "redaction",
+    "level": 3,
+    "prompt": "Quelle conclusion respecte un résultat partiel ?",
+    "choices": [
+      "Ce test prouve une maîtrise complète de toute la langue.",
+      "Aucun résultat partiel ne peut fournir la moindre information.",
+      "Ce test suggère une bonne reconnaissance des formes étudiées ; la rédaction libre reste à évaluer."
+    ],
+    "answer": 2,
+    "explanation": "La conclusion délimite les preuves sans les annuler ni les généraliser excessivement.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "clarte"
+  },
+  {
+    "id": "cefr-C2-07",
+    "cefr": "C2",
+    "assessmentRole": "placement",
+    "skill": "comprehension",
+    "level": 3,
+    "prompt": "Que signifie « discutables » dans le dernier paragraphe ?",
+    "choices": [
+      "Sans aucun fondement rationnel.",
+      "Susceptibles d’être examinées, contestées et révisées.",
+      "Nécessairement fausses."
+    ],
+    "answer": 1,
+    "explanation": "L’auteur explicite ce sens ; la possibilité d’examen est présentée comme une condition de rigueur.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "context": "Dans les débats sur l’éducation, la mesure apparaît souvent comme une promesse de clarté : convertir des performances en nombres permettrait de comparer les méthodes et d’éclairer les décisions. Le propos mérite d’être pris au sérieux. Une impression favorable ne suffit pas à établir qu’un dispositif produit les effets annoncés, et l’absence d’indicateurs peut laisser prospérer des pratiques inefficaces.\n\nCette exigence ne dispense pourtant pas d’interroger ce que l’indicateur rend visible. Lorsqu’une évaluation privilégie les réponses aisément codables, elle risque de faire passer une commodité méthodologique pour une définition de la compétence. Identifier la forme correcte d’un verbe parmi trois propositions et mobiliser spontanément cette forme dans une argumentation ne constituent pas des activités équivalentes. La première peut contribuer à apprécier la seconde, sans lui être substituable.\n\nIl serait tout aussi fragile d’en déduire que toute quantification appauvrit nécessairement l’apprentissage. Le problème tient moins au nombre lui-même qu’à l’autorité qu’on lui attribue et aux inférences qu’on en tire. Une mesure partielle devient trompeuse lorsqu’elle est présentée comme un portrait exhaustif ; elle reste utile si son périmètre est explicite et si elle est confrontée à d’autres observations.\n\nOn pourrait objecter que multiplier les critères rend la décision plus incertaine. C’est exact, mais l’incertitude ainsi révélée n’est pas créée par l’évaluation : elle préexistait, dissimulée par la simplicité du classement. Assumer cette complexité ne conduit pas à renoncer à décider. Cela invite à distinguer les décisions qui réclament un seuil conventionnel de celles qui exigent une compréhension fine d’un parcours.\n\nUne évaluation responsable ne promet donc pas de dissiper tout doute. Elle cherche plutôt à rendre les raisons du jugement discutables, au sens où elles peuvent être examinées, contestées et révisées. Cette possibilité de révision constitue une condition de rigueur, plutôt qu’un aveu de faiblesse."
+  },
+  {
+    "id": "cefr-A1-08",
+    "cefr": "A1",
+    "assessmentRole": "extension",
+    "skill": "comprehension",
+    "level": 1,
+    "prompt": "Quand Nora ne travaille-t-elle pas ?",
+    "choices": ["Le dimanche.", "Le mercredi.", "Tous les matins."],
+    "answer": 0,
+    "explanation": "Le dimanche, Nora ne travaille pas.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "context": "Bonjour, je m’appelle Nora. J’habite à Pointe-Noire avec ma sœur. Je travaille dans une librairie. Le magasin ouvre à neuf heures et ferme à dix-huit heures. Le dimanche, je ne travaille pas. Je lis et je retrouve mes amis au parc. Cette semaine, je cherche un livre pour l’anniversaire de ma sœur. Elle aime les histoires de voyage."
+  },
+  {
+    "id": "cefr-A1-09",
+    "cefr": "A1",
+    "assessmentRole": "extension",
+    "skill": "comprehension",
+    "level": 1,
+    "prompt": "Pourquoi cherche-t-elle un livre cette semaine ?",
+    "choices": [
+      "Pour changer de travail.",
+      "Pour un examen.",
+      "Pour l’anniversaire de sa sœur."
+    ],
+    "answer": 2,
+    "explanation": "Le cadeau est destiné à sa sœur.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "context": "Bonjour, je m’appelle Nora. J’habite à Pointe-Noire avec ma sœur. Je travaille dans une librairie. Le magasin ouvre à neuf heures et ferme à dix-huit heures. Le dimanche, je ne travaille pas. Je lis et je retrouve mes amis au parc. Cette semaine, je cherche un livre pour l’anniversaire de ma sœur. Elle aime les histoires de voyage."
+  },
+  {
+    "id": "cefr-A1-10",
+    "cefr": "A1",
+    "assessmentRole": "extension",
+    "skill": "comprehension",
+    "level": 1,
+    "prompt": "Que préfère sa sœur ?",
+    "choices": [
+      "Les journaux sportifs.",
+      "Les histoires de voyage.",
+      "Les livres de cuisine."
+    ],
+    "answer": 1,
+    "explanation": "Le texte donne cette préférence explicitement.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "context": "Bonjour, je m’appelle Nora. J’habite à Pointe-Noire avec ma sœur. Je travaille dans une librairie. Le magasin ouvre à neuf heures et ferme à dix-huit heures. Le dimanche, je ne travaille pas. Je lis et je retrouve mes amis au parc. Cette semaine, je cherche un livre pour l’anniversaire de ma sœur. Elle aime les histoires de voyage."
+  },
+  {
+    "id": "cefr-A1-11",
+    "cefr": "A1",
+    "assessmentRole": "extension",
+    "skill": "comprehension",
+    "level": 1,
+    "prompt": "À quelle heure est le rendez-vous ?",
+    "choices": ["À quinze heures.", "À neuf heures.", "À dix-huit heures."],
+    "answer": 0,
+    "explanation": "Le message annonce quinze heures.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "audioKey": "exam-A1"
+  },
+  {
+    "id": "cefr-A1-12",
+    "cefr": "A1",
+    "assessmentRole": "extension",
+    "skill": "comprehension",
+    "level": 1,
+    "prompt": "Où faut-il retrouver Sami ?",
+    "choices": ["Dans le parc.", "À la gare.", "Devant la bibliothèque."],
+    "answer": 2,
+    "explanation": "Le lieu annoncé est devant la bibliothèque.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "audioKey": "exam-A1"
+  },
+  {
+    "id": "cefr-A1-13",
+    "cefr": "A1",
+    "assessmentRole": "extension",
+    "skill": "comprehension",
+    "level": 1,
+    "prompt": "Que doit faire Nora si elle est en retard ?",
+    "choices": ["Revenir dimanche.", "Appeler Sami.", "Annuler sans prévenir."],
+    "answer": 1,
+    "explanation": "Sami demande de l’appeler en cas de retard.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "audioKey": "exam-A1"
+  },
+  {
+    "id": "cefr-A2-08",
+    "cefr": "A2",
+    "assessmentRole": "extension",
+    "skill": "comprehension",
+    "level": 1,
+    "prompt": "Combien de personnes la salle peut-elle accueillir ?",
+    "choices": ["Douze.", "Dix-huit.", "Seize."],
+    "answer": 0,
+    "explanation": "La capacité maximale annoncée est de douze personnes.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "context": "La bibliothèque du quartier propose un atelier de lecture le samedi 18 octobre, de dix heures à midi. Il est gratuit et ouvert aux adultes. Les participants doivent s’inscrire avant le jeudi 16 octobre, car la salle ne peut accueillir que douze personnes. Chaque personne apporte un court texte qu’elle aime. Pendant la séance, chacun lit un passage à voix haute, puis les autres partagent leurs impressions. On ne donne pas de note. Les personnes qui préfèrent écouter peuvent aussi participer. Pour s’inscrire, il suffit de donner son prénom à l’accueil de la bibliothèque."
+  },
+  {
+    "id": "cefr-A2-09",
+    "cefr": "A2",
+    "assessmentRole": "extension",
+    "skill": "comprehension",
+    "level": 1,
+    "prompt": "Peut-on participer en écoutant sans lire à voix haute ?",
+    "choices": [
+      "Non, tout le monde doit lire.",
+      "Seulement en payant.",
+      "Oui."
+    ],
+    "answer": 2,
+    "explanation": "L’annonce autorise explicitement les personnes qui préfèrent écouter.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "context": "La bibliothèque du quartier propose un atelier de lecture le samedi 18 octobre, de dix heures à midi. Il est gratuit et ouvert aux adultes. Les participants doivent s’inscrire avant le jeudi 16 octobre, car la salle ne peut accueillir que douze personnes. Chaque personne apporte un court texte qu’elle aime. Pendant la séance, chacun lit un passage à voix haute, puis les autres partagent leurs impressions. On ne donne pas de note. Les personnes qui préfèrent écouter peuvent aussi participer. Pour s’inscrire, il suffit de donner son prénom à l’accueil de la bibliothèque."
+  },
+  {
+    "id": "cefr-A2-10",
+    "cefr": "A2",
+    "assessmentRole": "extension",
+    "skill": "comprehension",
+    "level": 1,
+    "prompt": "Que faut-il apporter ?",
+    "choices": [
+      "Un cahier obligatoire fourni par la bibliothèque.",
+      "Un court texte que l’on aime.",
+      "Une pièce de théâtre complète."
+    ],
+    "answer": 1,
+    "explanation": "Chaque personne apporte un court texte de son choix.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "context": "La bibliothèque du quartier propose un atelier de lecture le samedi 18 octobre, de dix heures à midi. Il est gratuit et ouvert aux adultes. Les participants doivent s’inscrire avant le jeudi 16 octobre, car la salle ne peut accueillir que douze personnes. Chaque personne apporte un court texte qu’elle aime. Pendant la séance, chacun lit un passage à voix haute, puis les autres partagent leurs impressions. On ne donne pas de note. Les personnes qui préfèrent écouter peuvent aussi participer. Pour s’inscrire, il suffit de donner son prénom à l’accueil de la bibliothèque."
+  },
+  {
+    "id": "cefr-A2-11",
+    "cefr": "A2",
+    "assessmentRole": "extension",
+    "skill": "comprehension",
+    "level": 1,
+    "prompt": "Quand l’atelier aura-t-il finalement lieu ?",
+    "choices": [
+      "Samedi de quatorze heures à seize heures.",
+      "Samedi de dix heures à midi.",
+      "Vendredi soir."
+    ],
+    "answer": 0,
+    "explanation": "Le changement concerne le passage au samedi après-midi.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "audioKey": "exam-A2"
+  },
+  {
+    "id": "cefr-A2-12",
+    "cefr": "A2",
+    "assessmentRole": "extension",
+    "skill": "comprehension",
+    "level": 1,
+    "prompt": "Faut-il s’inscrire à nouveau ?",
+    "choices": [
+      "Oui, dans tous les cas.",
+      "Oui, uniquement au premier étage.",
+      "Non, l’inscription reste valable."
+    ],
+    "answer": 2,
+    "explanation": "Le message indique que l’inscription initiale reste valable.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "audioKey": "exam-A2"
+  },
+  {
+    "id": "cefr-A2-13",
+    "cefr": "A2",
+    "assessmentRole": "extension",
+    "skill": "comprehension",
+    "level": 1,
+    "prompt": "Pourquoi la salle change-t-elle ?",
+    "choices": [
+      "Les participants sont trop nombreux selon le message.",
+      "La salle habituelle est occupée.",
+      "La bibliothèque est définitivement fermée."
+    ],
+    "answer": 1,
+    "explanation": "L’occupation de la salle habituelle est la raison annoncée.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "audioKey": "exam-A2"
+  },
+  {
+    "id": "cefr-B1-08",
+    "cefr": "B1",
+    "assessmentRole": "extension",
+    "skill": "comprehension",
+    "level": 2,
+    "prompt": "Quelle modification Sami a-t-il choisie au début ?",
+    "choices": [
+      "Un trajet plus long, mais moins fréquenté.",
+      "Le trajet le plus rapide à tout prix.",
+      "Une voiture neuve."
+    ],
+    "answer": 0,
+    "explanation": "Il a choisi un trajet moins fréquenté malgré sa longueur.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "context": "Depuis trois mois, Sami se rend au travail à vélo deux fois par semaine. Au début, il craignait d’arriver fatigué. Il a donc choisi un trajet plus long, mais moins fréquenté, et préparé ses affaires la veille. Aujourd’hui, il apprécie ce temps de déplacement : il observe le quartier et commence sa journée plus calmement.\n\nIl ne pense pourtant pas que tout le monde devrait faire le même choix. Certains collègues habitent loin et d’autres transportent du matériel lourd. Lorsqu’il pleut fortement, Sami prend lui-même le bus. À ses yeux, une bonne solution doit tenir compte de la situation de chacun. Il souhaiterait que son entreprise installe un abri pour les vélos et améliore les vestiaires. Il en a parlé à la direction, qui étudiera sa proposition lors de la prochaine réunion. Rien n’a encore été décidé."
+  },
+  {
+    "id": "cefr-B1-09",
+    "cefr": "B1",
+    "assessmentRole": "extension",
+    "skill": "comprehension",
+    "level": 2,
+    "prompt": "Quelle est la situation de sa proposition à la fin ?",
+    "choices": [
+      "Elle a été refusée définitivement.",
+      "Elle est déjà entièrement réalisée.",
+      "Elle sera étudiée ; aucune décision n’est encore prise."
+    ],
+    "answer": 2,
+    "explanation": "La direction doit encore l’étudier.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "context": "Depuis trois mois, Sami se rend au travail à vélo deux fois par semaine. Au début, il craignait d’arriver fatigué. Il a donc choisi un trajet plus long, mais moins fréquenté, et préparé ses affaires la veille. Aujourd’hui, il apprécie ce temps de déplacement : il observe le quartier et commence sa journée plus calmement.\n\nIl ne pense pourtant pas que tout le monde devrait faire le même choix. Certains collègues habitent loin et d’autres transportent du matériel lourd. Lorsqu’il pleut fortement, Sami prend lui-même le bus. À ses yeux, une bonne solution doit tenir compte de la situation de chacun. Il souhaiterait que son entreprise installe un abri pour les vélos et améliore les vestiaires. Il en a parlé à la direction, qui étudiera sa proposition lors de la prochaine réunion. Rien n’a encore été décidé."
+  },
+  {
+    "id": "cefr-B1-10",
+    "cefr": "B1",
+    "assessmentRole": "extension",
+    "skill": "comprehension",
+    "level": 2,
+    "prompt": "Quel ton caractérise son point de vue ?",
+    "choices": [
+      "Hostile à tous les transports.",
+      "Pragmatique et attentif aux situations individuelles.",
+      "Catégorique et indifférent aux contraintes."
+    ],
+    "answer": 1,
+    "explanation": "Il tient compte des circonstances et utilise plusieurs solutions.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "context": "Depuis trois mois, Sami se rend au travail à vélo deux fois par semaine. Au début, il craignait d’arriver fatigué. Il a donc choisi un trajet plus long, mais moins fréquenté, et préparé ses affaires la veille. Aujourd’hui, il apprécie ce temps de déplacement : il observe le quartier et commence sa journée plus calmement.\n\nIl ne pense pourtant pas que tout le monde devrait faire le même choix. Certains collègues habitent loin et d’autres transportent du matériel lourd. Lorsqu’il pleut fortement, Sami prend lui-même le bus. À ses yeux, une bonne solution doit tenir compte de la situation de chacun. Il souhaiterait que son entreprise installe un abri pour les vélos et améliore les vestiaires. Il en a parlé à la direction, qui étudiera sa proposition lors de la prochaine réunion. Rien n’a encore été décidé."
+  },
+  {
+    "id": "cefr-B1-11",
+    "cefr": "B1",
+    "assessmentRole": "extension",
+    "skill": "comprehension",
+    "level": 2,
+    "prompt": "La lecture de son texte était-elle obligatoire ?",
+    "choices": [
+      "Non, chacun pouvait choisir de partager un passage.",
+      "Oui, un récit complet était imposé.",
+      "Oui, sous peine d’exclusion."
+    ],
+    "answer": 0,
+    "explanation": "Le partage n’était pas obligatoire.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "audioKey": "exam-B1"
+  },
+  {
+    "id": "cefr-B1-12",
+    "cefr": "B1",
+    "assessmentRole": "extension",
+    "skill": "comprehension",
+    "level": 2,
+    "prompt": "Quel effet principal la séance a-t-elle eu sur le narrateur ?",
+    "choices": [
+      "Elle l’a immédiatement rendu excellent écrivain.",
+      "Elle l’a convaincu d’abandonner.",
+      "Elle lui a donné envie de revenir."
+    ],
+    "answer": 2,
+    "explanation": "Il précise qu’il a surtout retrouvé l’envie de poursuivre.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "audioKey": "exam-B1"
+  },
+  {
+    "id": "cefr-B1-13",
+    "cefr": "B1",
+    "assessmentRole": "extension",
+    "skill": "comprehension",
+    "level": 2,
+    "prompt": "Que prépare-t-il pour la prochaine séance ?",
+    "choices": [
+      "Un examen déjà réussi.",
+      "Un court récit relu avec un ami.",
+      "Une conférence devant cent personnes."
+    ],
+    "answer": 1,
+    "explanation": "Le narrateur annonce cette préparation concrète.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "audioKey": "exam-B1"
+  },
+  {
+    "id": "cefr-B2-08",
+    "cefr": "B2",
+    "assessmentRole": "extension",
+    "skill": "comprehension",
+    "level": 2,
+    "prompt": "Pourquoi l’association demande-t-elle une enquête qualitative ?",
+    "choices": [
+      "Pour comprendre des usages que le nombre d’entrées ne décrit pas suffisamment.",
+      "Pour supprimer toute mesure.",
+      "Pour obliger chaque usager à rester une heure."
+    ],
+    "answer": 0,
+    "explanation": "Les usages longs ne produisent pas nécessairement une forte rotation.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "context": "Une association propose de prolonger l’ouverture de la bibliothèque deux soirs par semaine. Ses membres estiment que les horaires actuels excluent de fait une partie des habitants qui travaillent en journée. Ils soulignent que l’accès aux livres ne dépend pas seulement du nombre de documents disponibles, mais aussi de la possibilité de se rendre sur place.\n\nLa responsable de la bibliothèque reconnaît ce besoin. Elle rappelle toutefois qu’une ouverture prolongée nécessite du personnel, une organisation adaptée et un budget stable. Déplacer simplement les heures de travail pourrait réduire l’accueil à d’autres moments. Elle propose donc une expérimentation de trois mois, accompagnée d’un suivi de la fréquentation.\n\nPour l’association, le nombre de visiteurs ne devrait pas être l’unique indicateur. Certains usages, comme la préparation d’un examen ou l’aide à une démarche administrative, demandent du temps sans produire une forte rotation du public. Une enquête qualitative compléterait utilement les chiffres.\n\nLes deux parties s’accordent sur l’intérêt d’essayer, mais elles ne définissent pas encore la réussite de la même façon. Le débat porte ainsi moins sur le principe d’un meilleur accès que sur les moyens de le garantir et les critères qui permettront de juger l’essai."
+  },
+  {
+    "id": "cefr-B2-09",
+    "cefr": "B2",
+    "assessmentRole": "extension",
+    "skill": "comprehension",
+    "level": 2,
+    "prompt": "Quelle réserve formule la responsable ?",
+    "choices": [
+      "Tous les salariés refusent les livres.",
+      "La bibliothèque doit fermer pendant trois mois.",
+      "Les horaires supplémentaires exigent des ressources et peuvent réduire d’autres créneaux."
+    ],
+    "answer": 2,
+    "explanation": "Elle souligne les contraintes de personnel et de budget.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "context": "Une association propose de prolonger l’ouverture de la bibliothèque deux soirs par semaine. Ses membres estiment que les horaires actuels excluent de fait une partie des habitants qui travaillent en journée. Ils soulignent que l’accès aux livres ne dépend pas seulement du nombre de documents disponibles, mais aussi de la possibilité de se rendre sur place.\n\nLa responsable de la bibliothèque reconnaît ce besoin. Elle rappelle toutefois qu’une ouverture prolongée nécessite du personnel, une organisation adaptée et un budget stable. Déplacer simplement les heures de travail pourrait réduire l’accueil à d’autres moments. Elle propose donc une expérimentation de trois mois, accompagnée d’un suivi de la fréquentation.\n\nPour l’association, le nombre de visiteurs ne devrait pas être l’unique indicateur. Certains usages, comme la préparation d’un examen ou l’aide à une démarche administrative, demandent du temps sans produire une forte rotation du public. Une enquête qualitative compléterait utilement les chiffres.\n\nLes deux parties s’accordent sur l’intérêt d’essayer, mais elles ne définissent pas encore la réussite de la même façon. Le débat porte ainsi moins sur le principe d’un meilleur accès que sur les moyens de le garantir et les critères qui permettront de juger l’essai."
+  },
+  {
+    "id": "cefr-B2-10",
+    "cefr": "B2",
+    "assessmentRole": "extension",
+    "skill": "comprehension",
+    "level": 2,
+    "prompt": "L’expérimentation garantit-elle déjà des horaires définitifs ?",
+    "choices": [
+      "Oui, elle supprime toute discussion.",
+      "Non, sa poursuite dépendra d’une évaluation.",
+      "Oui, elle est annoncée comme permanente."
+    ],
+    "answer": 1,
+    "explanation": "Un essai de trois mois n’est pas une décision définitive.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "context": "Une association propose de prolonger l’ouverture de la bibliothèque deux soirs par semaine. Ses membres estiment que les horaires actuels excluent de fait une partie des habitants qui travaillent en journée. Ils soulignent que l’accès aux livres ne dépend pas seulement du nombre de documents disponibles, mais aussi de la possibilité de se rendre sur place.\n\nLa responsable de la bibliothèque reconnaît ce besoin. Elle rappelle toutefois qu’une ouverture prolongée nécessite du personnel, une organisation adaptée et un budget stable. Déplacer simplement les heures de travail pourrait réduire l’accueil à d’autres moments. Elle propose donc une expérimentation de trois mois, accompagnée d’un suivi de la fréquentation.\n\nPour l’association, le nombre de visiteurs ne devrait pas être l’unique indicateur. Certains usages, comme la préparation d’un examen ou l’aide à une démarche administrative, demandent du temps sans produire une forte rotation du public. Une enquête qualitative compléterait utilement les chiffres.\n\nLes deux parties s’accordent sur l’intérêt d’essayer, mais elles ne définissent pas encore la réussite de la même façon. Le débat porte ainsi moins sur le principe d’un meilleur accès que sur les moyens de le garantir et les critères qui permettront de juger l’essai."
+  },
+  {
+    "id": "cefr-B2-11",
+    "cefr": "B2",
+    "assessmentRole": "extension",
+    "skill": "comprehension",
+    "level": 2,
+    "prompt": "Quelle condition l’association défend-elle ?",
+    "choices": [
+      "Ne pas supprimer simplement les créneaux du matin.",
+      "Remplacer tous les horaires par la soirée.",
+      "Supprimer l’accueil des personnes âgées."
+    ],
+    "answer": 0,
+    "explanation": "Elle souhaite préserver les besoins des autres groupes d’usagers.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "audioKey": "exam-B2"
+  },
+  {
+    "id": "cefr-B2-12",
+    "cefr": "B2",
+    "assessmentRole": "extension",
+    "skill": "comprehension",
+    "level": 2,
+    "prompt": "Qui devrait contribuer au bilan ?",
+    "choices": [
+      "Uniquement les usagers déjà réguliers.",
+      "Uniquement les salariés de l’association.",
+      "Plusieurs groupes, dont ceux qui fréquentent peu la bibliothèque."
+    ],
+    "answer": 2,
+    "explanation": "Le locuteur demande d’élargir les avis recueillis.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "audioKey": "exam-B2"
+  },
+  {
+    "id": "cefr-B2-13",
+    "cefr": "B2",
+    "assessmentRole": "extension",
+    "skill": "comprehension",
+    "level": 2,
+    "prompt": "La poursuite des soirées est présentée comme…",
+    "choices": [
+      "impossible quels que soient les résultats.",
+      "conditionnelle aux résultats de l’essai.",
+      "définitivement acquise."
+    ],
+    "answer": 1,
+    "explanation": "Elle sera discutée si un besoin réel apparaît.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "audioKey": "exam-B2"
+  },
+  {
+    "id": "cefr-C1-08",
+    "cefr": "C1",
+    "assessmentRole": "extension",
+    "skill": "comprehension",
+    "level": 3,
+    "prompt": "Pourquoi remplir les formulaires à la place des usagers ne suffit-il pas toujours ?",
+    "choices": [
+      "Cela peut résoudre l’urgence sans construire l’autonomie.",
+      "Cela empêche obligatoirement tout dépôt.",
+      "Cela prouve que personne ne peut apprendre."
+    ],
+    "answer": 0,
+    "explanation": "Le texte distingue l’aide immédiate de l’acquisition d’autonomie.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "context": "Une collectivité souhaite dématérialiser plusieurs démarches afin de réduire les délais de traitement. Présentée comme une simplification, cette réforme repose sur une hypothèse rarement explicitée : les usagers disposeraient tous des ressources matérielles et des compétences nécessaires pour accomplir seuls les opérations demandées. Or, la possession d’un téléphone ne garantit ni une connexion stable, ni la capacité de comprendre une procédure administrative complexe.\n\nIl serait néanmoins réducteur d’opposer une administration numérique, nécessairement inaccessible, à un accueil physique, supposé toujours efficace. Les déplacements peuvent eux aussi constituer une difficulté, notamment pour les personnes éloignées des services ou soumises à des horaires contraignants. La question pertinente concerne donc l’articulation des moyens disponibles, plutôt que le choix exclusif d’un canal.\n\nLes associations locales défendent un accompagnement qui permette d’apprendre, tout en maintenant une possibilité de recours humain. Elles mettent en garde contre une aide limitée à remplir les formulaires à la place de l’usager : une telle réponse résout parfois l’urgence, mais peut entretenir la dépendance. À l’inverse, exiger une autonomie immédiate risque de transformer la démarche en épreuve.\n\nÉvaluer la réforme suppose enfin de dépasser la seule mesure du temps moyen de traitement. Un délai réduit pour les dossiers déposés ne renseigne pas sur les personnes qui ont renoncé avant de déposer le leur. La simplification ne peut être appréciée qu’en tenant compte de ces trajectoires invisibles. Cela impose de recueillir des données complémentaires et d’admettre que l’efficacité d’un service se juge aussi à sa capacité d’accueillir les situations qui résistent à la standardisation."
+  },
+  {
+    "id": "cefr-C1-09",
+    "cefr": "C1",
+    "assessmentRole": "extension",
+    "skill": "comprehension",
+    "level": 3,
+    "prompt": "Quel raisonnement l’auteur refuse-t-il ?",
+    "choices": [
+      "Observer les difficultés concrètes.",
+      "Articuler plusieurs canaux de service.",
+      "Opposer un numérique forcément inaccessible à un accueil physique toujours efficace."
+    ],
+    "answer": 2,
+    "explanation": "Les deux canaux ont des avantages et des contraintes.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "context": "Une collectivité souhaite dématérialiser plusieurs démarches afin de réduire les délais de traitement. Présentée comme une simplification, cette réforme repose sur une hypothèse rarement explicitée : les usagers disposeraient tous des ressources matérielles et des compétences nécessaires pour accomplir seuls les opérations demandées. Or, la possession d’un téléphone ne garantit ni une connexion stable, ni la capacité de comprendre une procédure administrative complexe.\n\nIl serait néanmoins réducteur d’opposer une administration numérique, nécessairement inaccessible, à un accueil physique, supposé toujours efficace. Les déplacements peuvent eux aussi constituer une difficulté, notamment pour les personnes éloignées des services ou soumises à des horaires contraignants. La question pertinente concerne donc l’articulation des moyens disponibles, plutôt que le choix exclusif d’un canal.\n\nLes associations locales défendent un accompagnement qui permette d’apprendre, tout en maintenant une possibilité de recours humain. Elles mettent en garde contre une aide limitée à remplir les formulaires à la place de l’usager : une telle réponse résout parfois l’urgence, mais peut entretenir la dépendance. À l’inverse, exiger une autonomie immédiate risque de transformer la démarche en épreuve.\n\nÉvaluer la réforme suppose enfin de dépasser la seule mesure du temps moyen de traitement. Un délai réduit pour les dossiers déposés ne renseigne pas sur les personnes qui ont renoncé avant de déposer le leur. La simplification ne peut être appréciée qu’en tenant compte de ces trajectoires invisibles. Cela impose de recueillir des données complémentaires et d’admettre que l’efficacité d’un service se juge aussi à sa capacité d’accueillir les situations qui résistent à la standardisation."
+  },
+  {
+    "id": "cefr-C1-10",
+    "cefr": "C1",
+    "assessmentRole": "extension",
+    "skill": "comprehension",
+    "level": 3,
+    "prompt": "Quel biais peut affecter le temps moyen de traitement ?",
+    "choices": [
+      "La durée totale de tous les appels privés.",
+      "L’exclusion des personnes qui ont renoncé avant de déposer un dossier.",
+      "Le comptage de tous les trajets en voiture."
+    ],
+    "answer": 1,
+    "explanation": "Les abandons n’apparaissent pas dans la durée des dossiers traités.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "context": "Une collectivité souhaite dématérialiser plusieurs démarches afin de réduire les délais de traitement. Présentée comme une simplification, cette réforme repose sur une hypothèse rarement explicitée : les usagers disposeraient tous des ressources matérielles et des compétences nécessaires pour accomplir seuls les opérations demandées. Or, la possession d’un téléphone ne garantit ni une connexion stable, ni la capacité de comprendre une procédure administrative complexe.\n\nIl serait néanmoins réducteur d’opposer une administration numérique, nécessairement inaccessible, à un accueil physique, supposé toujours efficace. Les déplacements peuvent eux aussi constituer une difficulté, notamment pour les personnes éloignées des services ou soumises à des horaires contraignants. La question pertinente concerne donc l’articulation des moyens disponibles, plutôt que le choix exclusif d’un canal.\n\nLes associations locales défendent un accompagnement qui permette d’apprendre, tout en maintenant une possibilité de recours humain. Elles mettent en garde contre une aide limitée à remplir les formulaires à la place de l’usager : une telle réponse résout parfois l’urgence, mais peut entretenir la dépendance. À l’inverse, exiger une autonomie immédiate risque de transformer la démarche en épreuve.\n\nÉvaluer la réforme suppose enfin de dépasser la seule mesure du temps moyen de traitement. Un délai réduit pour les dossiers déposés ne renseigne pas sur les personnes qui ont renoncé avant de déposer le leur. La simplification ne peut être appréciée qu’en tenant compte de ces trajectoires invisibles. Cela impose de recueillir des données complémentaires et d’admettre que l’efficacité d’un service se juge aussi à sa capacité d’accueillir les situations qui résistent à la standardisation."
+  },
+  {
+    "id": "cefr-C1-11",
+    "cefr": "C1",
+    "assessmentRole": "extension",
+    "skill": "comprehension",
+    "level": 3,
+    "prompt": "Pourquoi faut-il observer le parcours entier ?",
+    "choices": [
+      "Les obstacles peuvent survenir avant l’arrivée du dossier au service.",
+      "Seul le dépôt final peut être difficile.",
+      "Le numéro de chaque case suffit à comprendre l’usager."
+    ],
+    "answer": 0,
+    "explanation": "Le locuteur cite des difficultés de document et de numérisation en amont.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "audioKey": "exam-C1"
+  },
+  {
+    "id": "cefr-C1-12",
+    "cefr": "C1",
+    "assessmentRole": "extension",
+    "skill": "comprehension",
+    "level": 3,
+    "prompt": "Le locuteur demande-t-il de supprimer le numérique ?",
+    "choices": [
+      "Oui, sans exception.",
+      "Oui, uniquement sur téléphone.",
+      "Non, il demande un accompagnement humain complémentaire."
+    ],
+    "answer": 2,
+    "explanation": "Il reconnaît les avantages du numérique et demande une possibilité de dialogue.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "audioKey": "exam-C1"
+  },
+  {
+    "id": "cefr-C1-13",
+    "cefr": "C1",
+    "assessmentRole": "extension",
+    "skill": "comprehension",
+    "level": 3,
+    "prompt": "Quelle amélioration apparente serait trompeuse ?",
+    "choices": [
+      "Un meilleur suivi des démarches.",
+      "Un délai réduit parce que les dossiers difficiles n’arrivent plus.",
+      "Une réduction du nombre de déplacements réellement nécessaires."
+    ],
+    "answer": 1,
+    "explanation": "La disparition des situations difficiles peut biaiser l’indicateur de rapidité.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "audioKey": "exam-C1"
+  },
+  {
+    "id": "cefr-C2-08",
+    "cefr": "C2",
+    "assessmentRole": "extension",
+    "skill": "comprehension",
+    "level": 3,
+    "prompt": "Quelle concession ouvre l’argumentation ?",
+    "choices": [
+      "Les indicateurs peuvent éviter de se fier à de simples impressions.",
+      "Toutes les pratiques chiffrées sont trompeuses.",
+      "L’absence de critères est préférable en toute circonstance."
+    ],
+    "answer": 0,
+    "explanation": "L’auteur reconnaît l’utilité de la mesure avant d’en préciser les limites.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "context": "Dans les débats sur l’éducation, la mesure apparaît souvent comme une promesse de clarté : convertir des performances en nombres permettrait de comparer les méthodes et d’éclairer les décisions. Le propos mérite d’être pris au sérieux. Une impression favorable ne suffit pas à établir qu’un dispositif produit les effets annoncés, et l’absence d’indicateurs peut laisser prospérer des pratiques inefficaces.\n\nCette exigence ne dispense pourtant pas d’interroger ce que l’indicateur rend visible. Lorsqu’une évaluation privilégie les réponses aisément codables, elle risque de faire passer une commodité méthodologique pour une définition de la compétence. Identifier la forme correcte d’un verbe parmi trois propositions et mobiliser spontanément cette forme dans une argumentation ne constituent pas des activités équivalentes. La première peut contribuer à apprécier la seconde, sans lui être substituable.\n\nIl serait tout aussi fragile d’en déduire que toute quantification appauvrit nécessairement l’apprentissage. Le problème tient moins au nombre lui-même qu’à l’autorité qu’on lui attribue et aux inférences qu’on en tire. Une mesure partielle devient trompeuse lorsqu’elle est présentée comme un portrait exhaustif ; elle reste utile si son périmètre est explicite et si elle est confrontée à d’autres observations.\n\nOn pourrait objecter que multiplier les critères rend la décision plus incertaine. C’est exact, mais l’incertitude ainsi révélée n’est pas créée par l’évaluation : elle préexistait, dissimulée par la simplicité du classement. Assumer cette complexité ne conduit pas à renoncer à décider. Cela invite à distinguer les décisions qui réclament un seuil conventionnel de celles qui exigent une compréhension fine d’un parcours.\n\nUne évaluation responsable ne promet donc pas de dissiper tout doute. Elle cherche plutôt à rendre les raisons du jugement discutables, au sens où elles peuvent être examinées, contestées et révisées. Cette possibilité de révision constitue une condition de rigueur, plutôt qu’un aveu de faiblesse."
+  },
+  {
+    "id": "cefr-C2-09",
+    "cefr": "C2",
+    "assessmentRole": "extension",
+    "skill": "comprehension",
+    "level": 3,
+    "prompt": "Selon le texte, multiplier les critères crée-t-il l’incertitude ?",
+    "choices": [
+      "Oui, toute incertitude naît des critères.",
+      "Non, cela garantit une décision parfaitement certaine.",
+      "Non, cela révèle une incertitude que le classement simplifié masquait."
+    ],
+    "answer": 2,
+    "explanation": "L’incertitude préexiste et devient visible.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "context": "Dans les débats sur l’éducation, la mesure apparaît souvent comme une promesse de clarté : convertir des performances en nombres permettrait de comparer les méthodes et d’éclairer les décisions. Le propos mérite d’être pris au sérieux. Une impression favorable ne suffit pas à établir qu’un dispositif produit les effets annoncés, et l’absence d’indicateurs peut laisser prospérer des pratiques inefficaces.\n\nCette exigence ne dispense pourtant pas d’interroger ce que l’indicateur rend visible. Lorsqu’une évaluation privilégie les réponses aisément codables, elle risque de faire passer une commodité méthodologique pour une définition de la compétence. Identifier la forme correcte d’un verbe parmi trois propositions et mobiliser spontanément cette forme dans une argumentation ne constituent pas des activités équivalentes. La première peut contribuer à apprécier la seconde, sans lui être substituable.\n\nIl serait tout aussi fragile d’en déduire que toute quantification appauvrit nécessairement l’apprentissage. Le problème tient moins au nombre lui-même qu’à l’autorité qu’on lui attribue et aux inférences qu’on en tire. Une mesure partielle devient trompeuse lorsqu’elle est présentée comme un portrait exhaustif ; elle reste utile si son périmètre est explicite et si elle est confrontée à d’autres observations.\n\nOn pourrait objecter que multiplier les critères rend la décision plus incertaine. C’est exact, mais l’incertitude ainsi révélée n’est pas créée par l’évaluation : elle préexistait, dissimulée par la simplicité du classement. Assumer cette complexité ne conduit pas à renoncer à décider. Cela invite à distinguer les décisions qui réclament un seuil conventionnel de celles qui exigent une compréhension fine d’un parcours.\n\nUne évaluation responsable ne promet donc pas de dissiper tout doute. Elle cherche plutôt à rendre les raisons du jugement discutables, au sens où elles peuvent être examinées, contestées et révisées. Cette possibilité de révision constitue une condition de rigueur, plutôt qu’un aveu de faiblesse."
+  },
+  {
+    "id": "cefr-C2-10",
+    "cefr": "C2",
+    "assessmentRole": "extension",
+    "skill": "comprehension",
+    "level": 3,
+    "prompt": "Quelle distinction structure la thèse ?",
+    "choices": [
+      "L’évaluation et la décision sont incompatibles.",
+      "Utiliser une mesure partielle et lui attribuer une autorité exhaustive sont deux choses différentes.",
+      "Les nombres sont toujours exacts et les mots toujours faux."
+    ],
+    "answer": 1,
+    "explanation": "Le texte critique l’usage et les inférences abusives, pas toute mesure.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "context": "Dans les débats sur l’éducation, la mesure apparaît souvent comme une promesse de clarté : convertir des performances en nombres permettrait de comparer les méthodes et d’éclairer les décisions. Le propos mérite d’être pris au sérieux. Une impression favorable ne suffit pas à établir qu’un dispositif produit les effets annoncés, et l’absence d’indicateurs peut laisser prospérer des pratiques inefficaces.\n\nCette exigence ne dispense pourtant pas d’interroger ce que l’indicateur rend visible. Lorsqu’une évaluation privilégie les réponses aisément codables, elle risque de faire passer une commodité méthodologique pour une définition de la compétence. Identifier la forme correcte d’un verbe parmi trois propositions et mobiliser spontanément cette forme dans une argumentation ne constituent pas des activités équivalentes. La première peut contribuer à apprécier la seconde, sans lui être substituable.\n\nIl serait tout aussi fragile d’en déduire que toute quantification appauvrit nécessairement l’apprentissage. Le problème tient moins au nombre lui-même qu’à l’autorité qu’on lui attribue et aux inférences qu’on en tire. Une mesure partielle devient trompeuse lorsqu’elle est présentée comme un portrait exhaustif ; elle reste utile si son périmètre est explicite et si elle est confrontée à d’autres observations.\n\nOn pourrait objecter que multiplier les critères rend la décision plus incertaine. C’est exact, mais l’incertitude ainsi révélée n’est pas créée par l’évaluation : elle préexistait, dissimulée par la simplicité du classement. Assumer cette complexité ne conduit pas à renoncer à décider. Cela invite à distinguer les décisions qui réclament un seuil conventionnel de celles qui exigent une compréhension fine d’un parcours.\n\nUne évaluation responsable ne promet donc pas de dissiper tout doute. Elle cherche plutôt à rendre les raisons du jugement discutables, au sens où elles peuvent être examinées, contestées et révisées. Cette possibilité de révision constitue une condition de rigueur, plutôt qu’un aveu de faiblesse."
+  },
+  {
+    "id": "cefr-C2-11",
+    "cefr": "C2",
+    "assessmentRole": "extension",
+    "skill": "comprehension",
+    "level": 3,
+    "prompt": "Quelle critique le locuteur formule-t-il principalement ?",
+    "choices": [
+      "L’effacement des conditions de production d’un score quand il devient un verdict.",
+      "L’impossibilité de tout résultat quantifié.",
+      "La nécessité de ne jamais conclure."
+    ],
+    "answer": 0,
+    "explanation": "Il cible l’autorité attribuée au score sans rappeler son périmètre.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "audioKey": "exam-C2"
+  },
+  {
+    "id": "cefr-C2-12",
+    "cefr": "C2",
+    "assessmentRole": "extension",
+    "skill": "comprehension",
+    "level": 3,
+    "prompt": "Quel exemple illustre une erreur de portée ?",
+    "choices": [
+      "Calculer correctement le total des réponses.",
+      "Décrire les critères d’un dispositif.",
+      "Déduire d’un QCM grammatical la capacité de rédiger une lettre convaincante."
+    ],
+    "answer": 2,
+    "explanation": "L’inférence dépasse les tâches effectivement observées.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "audioKey": "exam-C2"
+  },
+  {
+    "id": "cefr-C2-13",
+    "cefr": "C2",
+    "assessmentRole": "extension",
+    "skill": "comprehension",
+    "level": 3,
+    "prompt": "À quoi sert d’exposer les choix de l’évaluation ?",
+    "choices": [
+      "À garantir automatiquement un niveau C2.",
+      "À déterminer les usages légitimes de la mesure.",
+      "À rendre toute connaissance impossible."
+    ],
+    "answer": 1,
+    "explanation": "Le locuteur explique que cette transparence permet de limiter les conclusions aux preuves.",
+    "tip": "Relis la construction et le contexte avant de choisir. Une réussite en QCM ne mesure pas à elle seule la production libre.",
+    "lessonId": "lecture",
+    "audioKey": "exam-C2"
+  }
+]
